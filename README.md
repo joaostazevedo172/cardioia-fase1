@@ -57,7 +57,7 @@
 | **Parte 1** — Dados numéricos | `.csv` + `.xlsx` | 800 linhas × 33 colunas | `https://drive.google.com/drive/u/1/folders/10-KjjKzmAhrhZYlPHX-fhsbF4kMmTK_1` |
 | **Parte 2** — Dados textuais | 4 × `.txt` | ~83 mil palavras | `https://drive.google.com/drive/u/1/folders/16-ujb53o-viimmShOm-SEFgoX9SVzU8C` |
 | **Parte 3** — Imagens de ECG | 120 × `.png` | 6 classes | `https://drive.google.com/drive/u/1/folders/17_9TrlV4x6Y4E44yc-lKYaIuhG3iTi_9` |
-| **Pacote completo** (tudo) | `.zip` | ~4 MB | `COLE_O_LINK_AQUI` |
+| **Pacote completo** (tudo) | `.zip` | ~4 MB | `https://drive.google.com/drive/u/1/folders/1rYgLBoxhhftEcBo_1gcDID44owPoXedY` |
 
 📄 **Documento resumo da entrega:** [`docs/CardioIA_Fase1_Documento_Resumo.pdf`](docs/CardioIA_Fase1_Documento_Resumo.pdf)
 (versão editável em `.docx` na mesma pasta)
