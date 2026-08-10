@@ -1,0 +1,810 @@
+CORPUS DE TELEATENDIMENTO CARDIOLOGICO - CARDIOIA (SIMULADO)
+=============================================================
+Projeto: CardioIA - FIAP | Fase 1 - Batimentos de Dados
+Natureza: dialogos SINTETICOS entre paciente e assistente virtual, escritos
+          pela equipe do projeto. Nenhuma conversa real foi utilizada.
+Rotulos por dialogo: intencao, nivel de urgencia e sentimento do paciente.
+Objetivo: treinar classificacao de intencao, triagem automatica por urgencia
+          e analise de sentimento (Fase 5 - Assistente Cardiologico Virtual).
+Total de dialogos: 200.
+
+-------------------------------------------------------------------------
+--- ATENDIMENTO 001 | paciente: CARD-0679 | canal: chat_web | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 002 | paciente: CARD-0726 | canal: whatsapp | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 003 | paciente: CARD-0086 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 004 | paciente: CARD-0516 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 005 | paciente: CARD-0505 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 006 | paciente: CARD-0469 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 007 | paciente: CARD-0394 | canal: aplicativo_movel | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 008 | paciente: CARD-0410 | canal: totem_ubs | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 009 | paciente: CARD-0039 | canal: chat_web | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 010 | paciente: CARD-0138 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 011 | paciente: CARD-0700 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 012 | paciente: CARD-0519 | canal: aplicativo_movel | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 013 | paciente: CARD-0245 | canal: totem_ubs | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 014 | paciente: CARD-0186 | canal: whatsapp | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 015 | paciente: CARD-0106 | canal: aplicativo_movel | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 016 | paciente: CARD-0442 | canal: aplicativo_movel | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 017 | paciente: CARD-0593 | canal: aplicativo_movel | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 018 | paciente: CARD-0099 | canal: chat_web | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 019 | paciente: CARD-0466 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 020 | paciente: CARD-0725 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 021 | paciente: CARD-0434 | canal: whatsapp | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 022 | paciente: CARD-0193 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 023 | paciente: CARD-0680 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 024 | paciente: CARD-0272 | canal: whatsapp | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 025 | paciente: CARD-0583 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 026 | paciente: CARD-0296 | canal: aplicativo_movel | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 027 | paciente: CARD-0460 | canal: whatsapp | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 028 | paciente: CARD-0700 | canal: whatsapp | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 029 | paciente: CARD-0096 | canal: whatsapp | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 030 | paciente: CARD-0537 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 031 | paciente: CARD-0107 | canal: aplicativo_movel | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 032 | paciente: CARD-0682 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 033 | paciente: CARD-0191 | canal: chat_web | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 034 | paciente: CARD-0713 | canal: aplicativo_movel | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 035 | paciente: CARD-0708 | canal: aplicativo_movel | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 036 | paciente: CARD-0783 | canal: totem_ubs | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 037 | paciente: CARD-0253 | canal: aplicativo_movel | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 038 | paciente: CARD-0290 | canal: chat_web | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 039 | paciente: CARD-0171 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 040 | paciente: CARD-0609 | canal: aplicativo_movel | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 041 | paciente: CARD-0559 | canal: chat_web | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 042 | paciente: CARD-0091 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 043 | paciente: CARD-0739 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 044 | paciente: CARD-0129 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 045 | paciente: CARD-0312 | canal: chat_web | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 046 | paciente: CARD-0345 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 047 | paciente: CARD-0206 | canal: chat_web | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 048 | paciente: CARD-0159 | canal: totem_ubs | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 049 | paciente: CARD-0318 | canal: whatsapp | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 050 | paciente: CARD-0320 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 051 | paciente: CARD-0650 | canal: totem_ubs | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 052 | paciente: CARD-0344 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 053 | paciente: CARD-0077 | canal: whatsapp | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 054 | paciente: CARD-0701 | canal: aplicativo_movel | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 055 | paciente: CARD-0662 | canal: chat_web | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 056 | paciente: CARD-0183 | canal: aplicativo_movel | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 057 | paciente: CARD-0157 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 058 | paciente: CARD-0086 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 059 | paciente: CARD-0298 | canal: whatsapp | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 060 | paciente: CARD-0736 | canal: totem_ubs | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 061 | paciente: CARD-0210 | canal: chat_web | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 062 | paciente: CARD-0563 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 063 | paciente: CARD-0067 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 064 | paciente: CARD-0481 | canal: whatsapp | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 065 | paciente: CARD-0266 | canal: whatsapp | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 066 | paciente: CARD-0727 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 067 | paciente: CARD-0006 | canal: whatsapp | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 068 | paciente: CARD-0417 | canal: chat_web | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 069 | paciente: CARD-0089 | canal: totem_ubs | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 070 | paciente: CARD-0175 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 071 | paciente: CARD-0577 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 072 | paciente: CARD-0149 | canal: aplicativo_movel | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 073 | paciente: CARD-0060 | canal: aplicativo_movel | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 074 | paciente: CARD-0161 | canal: aplicativo_movel | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 075 | paciente: CARD-0195 | canal: whatsapp | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 076 | paciente: CARD-0166 | canal: chat_web | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 077 | paciente: CARD-0656 | canal: chat_web | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 078 | paciente: CARD-0053 | canal: whatsapp | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 079 | paciente: CARD-0170 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 080 | paciente: CARD-0077 | canal: whatsapp | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 081 | paciente: CARD-0515 | canal: chat_web | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 082 | paciente: CARD-0380 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 083 | paciente: CARD-0283 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 084 | paciente: CARD-0421 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 085 | paciente: CARD-0063 | canal: chat_web | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 086 | paciente: CARD-0385 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 087 | paciente: CARD-0713 | canal: aplicativo_movel | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 088 | paciente: CARD-0542 | canal: chat_web | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 089 | paciente: CARD-0067 | canal: aplicativo_movel | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 090 | paciente: CARD-0627 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 091 | paciente: CARD-0356 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 092 | paciente: CARD-0656 | canal: aplicativo_movel | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 093 | paciente: CARD-0574 | canal: whatsapp | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 094 | paciente: CARD-0757 | canal: whatsapp | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 095 | paciente: CARD-0507 | canal: whatsapp | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 096 | paciente: CARD-0405 | canal: aplicativo_movel | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 097 | paciente: CARD-0059 | canal: whatsapp | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 098 | paciente: CARD-0429 | canal: aplicativo_movel | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 099 | paciente: CARD-0651 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 100 | paciente: CARD-0087 | canal: aplicativo_movel | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 101 | paciente: CARD-0325 | canal: whatsapp | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 102 | paciente: CARD-0596 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 103 | paciente: CARD-0234 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 104 | paciente: CARD-0756 | canal: whatsapp | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 105 | paciente: CARD-0245 | canal: chat_web | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 106 | paciente: CARD-0603 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 107 | paciente: CARD-0730 | canal: totem_ubs | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 108 | paciente: CARD-0150 | canal: totem_ubs | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 109 | paciente: CARD-0169 | canal: totem_ubs | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 110 | paciente: CARD-0667 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 111 | paciente: CARD-0469 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 112 | paciente: CARD-0473 | canal: totem_ubs | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 113 | paciente: CARD-0787 | canal: whatsapp | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 114 | paciente: CARD-0549 | canal: chat_web | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 115 | paciente: CARD-0235 | canal: aplicativo_movel | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 116 | paciente: CARD-0098 | canal: totem_ubs | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 117 | paciente: CARD-0025 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 118 | paciente: CARD-0770 | canal: aplicativo_movel | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 119 | paciente: CARD-0077 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 120 | paciente: CARD-0099 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 121 | paciente: CARD-0584 | canal: chat_web | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 122 | paciente: CARD-0335 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 123 | paciente: CARD-0126 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 124 | paciente: CARD-0168 | canal: aplicativo_movel | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 125 | paciente: CARD-0761 | canal: aplicativo_movel | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 126 | paciente: CARD-0322 | canal: chat_web | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 127 | paciente: CARD-0193 | canal: chat_web | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 128 | paciente: CARD-0749 | canal: totem_ubs | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 129 | paciente: CARD-0075 | canal: chat_web | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 130 | paciente: CARD-0084 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 131 | paciente: CARD-0677 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 132 | paciente: CARD-0726 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 133 | paciente: CARD-0059 | canal: chat_web | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 134 | paciente: CARD-0591 | canal: totem_ubs | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 135 | paciente: CARD-0466 | canal: chat_web | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 136 | paciente: CARD-0521 | canal: whatsapp | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 137 | paciente: CARD-0204 | canal: aplicativo_movel | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 138 | paciente: CARD-0072 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 139 | paciente: CARD-0041 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 140 | paciente: CARD-0283 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 141 | paciente: CARD-0719 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 142 | paciente: CARD-0354 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 143 | paciente: CARD-0187 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 144 | paciente: CARD-0669 | canal: whatsapp | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 145 | paciente: CARD-0220 | canal: chat_web | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 146 | paciente: CARD-0338 | canal: totem_ubs | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 147 | paciente: CARD-0292 | canal: whatsapp | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 148 | paciente: CARD-0251 | canal: aplicativo_movel | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 149 | paciente: CARD-0143 | canal: chat_web | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 150 | paciente: CARD-0238 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 151 | paciente: CARD-0795 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 152 | paciente: CARD-0493 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 153 | paciente: CARD-0693 | canal: totem_ubs | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 154 | paciente: CARD-0541 | canal: aplicativo_movel | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 155 | paciente: CARD-0458 | canal: chat_web | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 156 | paciente: CARD-0657 | canal: chat_web | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 157 | paciente: CARD-0336 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 158 | paciente: CARD-0289 | canal: whatsapp | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 159 | paciente: CARD-0173 | canal: aplicativo_movel | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 160 | paciente: CARD-0447 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 161 | paciente: CARD-0433 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 162 | paciente: CARD-0558 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 163 | paciente: CARD-0257 | canal: totem_ubs | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 164 | paciente: CARD-0672 | canal: chat_web | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 165 | paciente: CARD-0185 | canal: whatsapp | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 166 | paciente: CARD-0534 | canal: aplicativo_movel | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 167 | paciente: CARD-0715 | canal: chat_web | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 168 | paciente: CARD-0107 | canal: totem_ubs | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 169 | paciente: CARD-0700 | canal: totem_ubs | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 170 | paciente: CARD-0134 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 171 | paciente: CARD-0572 | canal: aplicativo_movel | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 172 | paciente: CARD-0639 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 173 | paciente: CARD-0019 | canal: totem_ubs | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 174 | paciente: CARD-0047 | canal: aplicativo_movel | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 175 | paciente: CARD-0345 | canal: whatsapp | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 176 | paciente: CARD-0188 | canal: whatsapp | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 177 | paciente: CARD-0141 | canal: whatsapp | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 178 | paciente: CARD-0068 | canal: totem_ubs | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 179 | paciente: CARD-0211 | canal: whatsapp | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 180 | paciente: CARD-0035 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.
+
+--- ATENDIMENTO 181 | paciente: CARD-0440 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: critica | sentimento: negativo ---
+PACIENTE: Estou com uma dor forte no peito agora, que vai pro braco esquerdo, e suando frio.
+ASSISTENTE: Isso pode ser um infarto. Ligue imediatamente para o SAMU 192 ou va ao pronto-socorro mais proximo. Nao dirija ate o hospital.
+
+--- ATENDIMENTO 182 | paciente: CARD-0738 | canal: aplicativo_movel | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Meu coracao esta disparado desde ontem, parece que vai sair pela boca.
+ASSISTENTE: Palpitacoes persistentes por mais de 24 horas precisam de eletrocardiograma. Procure um servico de urgencia hoje.
+
+--- ATENDIMENTO 183 | paciente: CARD-0624 | canal: chat_web | intencao: sintoma_emergencia | urgencia: alta | sentimento: negativo ---
+PACIENTE: Acordei com falta de ar e as pernas muito inchadas.
+ASSISTENTE: Falta de ar com inchaco nas pernas pode indicar descompensacao cardiaca. Procure atendimento ainda hoje.
+
+--- ATENDIMENTO 184 | paciente: CARD-0702 | canal: aplicativo_movel | intencao: duvida_medicacao | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso tomar o remedio da pressao junto com o cafe da manha?
+ASSISTENTE: Sim, na maioria dos casos. O importante e manter sempre o mesmo horario. Confirme com o seu cardiologista no retorno.
+
+--- ATENDIMENTO 185 | paciente: CARD-0735 | canal: totem_ubs | intencao: duvida_medicacao | urgencia: media | sentimento: preocupado ---
+PACIENTE: Esqueci de tomar o comprimido ontem a noite. E perigoso?
+ASSISTENTE: Uma dose esquecida raramente causa problema. Nao dobre a dose hoje; retome o horario habitual e anote para comentar na consulta.
+
+--- ATENDIMENTO 186 | paciente: CARD-0089 | canal: whatsapp | intencao: efeito_adverso | urgencia: media | sentimento: negativo ---
+PACIENTE: Esse remedio esta me dando muita tosse seca, e normal?
+ASSISTENTE: Tosse seca e um efeito conhecido de alguns anti-hipertensivos. Nao suspenda por conta propria; agende reavaliacao para possivel troca.
+
+--- ATENDIMENTO 187 | paciente: CARD-0287 | canal: whatsapp | intencao: agendamento | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Quero remarcar minha consulta de cardiologia para a proxima semana.
+ASSISTENTE: Posso encaminhar seu pedido a central de agendamento. Confirme sua preferencia de turno.
+
+--- ATENDIMENTO 188 | paciente: CARD-0030 | canal: whatsapp | intencao: monitoramento | urgencia: alta | sentimento: preocupado ---
+PACIENTE: Minha pressao hoje deu 180 por 110. O que eu faco?
+ASSISTENTE: Esse valor e elevado. Repita a medicao apos 15 minutos de repouso. Se permanecer acima de 180x110, procure atendimento imediatamente.
+
+--- ATENDIMENTO 189 | paciente: CARD-0330 | canal: chat_web | intencao: monitoramento | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Medi a pressao e deu 118 por 76. Esta bom?
+ASSISTENTE: Esta dentro da faixa desejada. Continue registrando as medidas para levar na consulta.
+
+--- ATENDIMENTO 190 | paciente: CARD-0514 | canal: whatsapp | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Consegui parar de fumar faz tres meses, estou muito feliz com isso.
+ASSISTENTE: Excelente conquista. Em um ano sem fumar o risco de infarto cai de forma expressiva. Continue assim.
+
+--- ATENDIMENTO 191 | paciente: CARD-0006 | canal: chat_web | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Estou com medo de fazer o cateterismo, nao durmo direito pensando nisso.
+ASSISTENTE: E natural sentir medo antes de um exame invasivo. O cateterismo e um procedimento comum e monitorado o tempo todo. Podemos registrar suas duvidas para a equipe esclarecer antes.
+
+--- ATENDIMENTO 192 | paciente: CARD-0592 | canal: whatsapp | intencao: apoio_emocional | urgencia: media | sentimento: ansioso ---
+PACIENTE: Depois que meu pai infartou eu fico o tempo todo achando que vou infartar tambem.
+ASSISTENTE: Historia familiar aumenta o risco, mas nao define o seu destino: controle de pressao, colesterol e tabagismo muda muito esse cenario. Vale conversar tambem com apoio psicologico.
+
+--- ATENDIMENTO 193 | paciente: CARD-0408 | canal: chat_web | intencao: orientacao_atividade | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Posso voltar a caminhar depois da angioplastia?
+ASSISTENTE: Em geral a caminhada leve e liberada precocemente, mas a autorizacao depende da avaliacao do seu cardiologista. Nao inicie sem essa liberacao.
+
+--- ATENDIMENTO 194 | paciente: CARD-0327 | canal: totem_ubs | intencao: orientacao_dieta | urgencia: baixa | sentimento: neutro ---
+PACIENTE: Qual dieta e melhor pra baixar o colesterol?
+ASSISTENTE: Reduzir gordura saturada e ultraprocessados e aumentar fibras, peixes e azeite tem boa evidencia. O acompanhamento com nutricionista potencializa o resultado.
+
+--- ATENDIMENTO 195 | paciente: CARD-0379 | canal: whatsapp | intencao: sintoma_leve | urgencia: media | sentimento: preocupado ---
+PACIENTE: Sinto tontura quando levanto rapido da cama.
+ASSISTENTE: Pode ser hipotensao postural, comum com alguns anti-hipertensivos. Levante-se devagar e relate na proxima consulta; se houver desmaio, procure atendimento.
+
+--- ATENDIMENTO 196 | paciente: CARD-0167 | canal: aplicativo_movel | intencao: monitoramento | urgencia: media | sentimento: preocupado ---
+PACIENTE: Meu relogio apontou 43 batimentos por minuto durante a noite, isso e ruim?
+ASSISTENTE: Frequencias baixas durante o sono podem ser normais, sobretudo em pessoas treinadas. Se vier acompanhada de tontura ou desmaio, procure avaliacao.
+
+--- ATENDIMENTO 197 | paciente: CARD-0314 | canal: chat_web | intencao: acesso_tratamento | urgencia: alta | sentimento: negativo ---
+PACIENTE: Nao consigo pagar o remedio esse mes.
+ASSISTENTE: Nao interrompa o tratamento. Varios anti-hipertensivos e estatinas estao disponiveis pelo Farmacia Popular e nas UBS. Posso registrar isso para a equipe orientar a retirada.
+
+--- ATENDIMENTO 198 | paciente: CARD-0414 | canal: whatsapp | intencao: acesso_tratamento | urgencia: media | sentimento: negativo ---
+PACIENTE: Moro na zona rural e a consulta mais proxima e a 3 horas de onibus.
+ASSISTENTE: Vamos verificar a possibilidade de teleconsulta e de acompanhamento na UBS do seu municipio para reduzir esse deslocamento.
+
+--- ATENDIMENTO 199 | paciente: CARD-0312 | canal: totem_ubs | intencao: adesao_habitos | urgencia: baixa | sentimento: positivo ---
+PACIENTE: Estou melhor depois que comecei a caminhar todo dia, quase nao canso mais.
+ASSISTENTE: Otimo sinal de melhora da capacidade funcional. Mantenha a regularidade e registre a frequencia semanal.
+
+--- ATENDIMENTO 200 | paciente: CARD-0192 | canal: chat_web | intencao: duvida_exame | urgencia: media | sentimento: ansioso ---
+PACIENTE: O exame deu 'alteracao de ST-T', o que significa isso?
+ASSISTENTE: E uma alteracao no eletrocardiograma que pode ter varias causas, algumas benignas. Ela precisa ser interpretada junto com seus sintomas pelo cardiologista.

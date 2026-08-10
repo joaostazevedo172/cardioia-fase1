@@ -1,0 +1,2181 @@
+Transcriber’s notes:
+
+The text of this e-book has been preserved as in the original,
+including inconsistent capitalisation and hyphenation. Archaic and
+inconsistent spellings have also been preserved except where obviously
+misspelled in the original.
+
+To assist readers, an additional item (‘Editor’s Introduction’) has
+been added to the table of contents. Footnotes are positioned below the
+relevant paragraph.
+
+Spelling inconsistencies include (but are not limited to) the following:
+
+  Fifty/Fiftie
+  enjoy/enioye
+  natural/naturall
+  physitians/physicians
+  book/booke
+  aëreal/aereal/aërial
+
+Corrected misspellings include the following:
+
+  preceive → perceive
+  under-their → understand their
+  retrogade → retrograde
+  aditional → additional
+  aud → and
+  so → to
+  Valkveld → Vlackveld
+  slugglishly → sluggishly
+
+
+
+
+  EVERYMAN’S LIBRARY
+  EDITED BY ERNEST RHYS
+
+
+  SCIENCE
+
+
+  THE CIRCULATION
+  OF THE BLOOD
+
+  WITH AN INTRODUCTION BY
+  E. A. PARKYN
+
+
+THE PUBLISHERS OF _EVERYMAN’S LIBRARY_ WILL BE PLEASED TO SEND FREELY
+TO ALL APPLICANTS A LIST OF THE PUBLISHED AND PROJECTED VOLUMES TO BE
+COMPRISED UNDER THE FOLLOWING TWELVE HEADINGS:
+
+  TRAVEL
+  SCIENCE
+  FICTION
+  THEOLOGY & PHILOSOPHY
+  HISTORY
+  CLASSICAL
+  FOR YOUNG PEOPLE
+  ESSAYS
+  ORATORY
+  POETRY & DRAMA
+  BIOGRAPHY
+  ROMANCE
+
+  [Illustration]
+
+IN TWO STYLES OF BINDING, CLOTH, FLAT BACK, COLOURED TOP, AND LEATHER,
+ROUND CORNERS, GILT TOP
+
+  LONDON: J. M. DENT & CO.
+  NEW YORK: E. P. DUTTON & CO.
+
+[Illustration:
+
+  HOC
+
+  SOLUM
+
+  SCIO QUOD
+
+  NIHIL
+
+  SCIO
+]
+
+[Illustration:
+
+  An Anatomical
+  Disquisition on
+  The MOTION
+  of the HEART
+  & BLOOD in
+  ANIMALS
+  BY WILLIAM
+  HARVEY
+  Translated from
+  the Latin by
+  ROBERT WILLIS
+
+  London: J·M·Dent & Co.
+  New York: E·P. Dutton & Co.
+]
+
+
+  PRINTED BY HAZELL, WATSON AND
+  VINEY, LD., LONDON AND AYLESBURY
+
+
+
+
+EDITOR’S INTRODUCTION
+
+
+However much the renewal of classical learning in the fourteenth,
+fifteenth, and sixteenth centuries may have furthered the development
+of letters and of art, it had anything but a favourable influence on
+the progress of science. The interest awakened in the literature of
+Greece and Rome was shown in admiration not only for the works of
+poets, historians, and orators, but also for those of physicians,
+anatomists, and astronomers. In consequence scientific investigation
+was almost wholly restricted to the study of the writings of authors
+like Aristotle, Hippocrates, Ptolemy, and Galen, and it became the
+highest ambition to explain and comment upon their teachings, almost
+an impiety to question them. Independent inquiry, the direct appeal
+to nature, were thus discouraged, and indeed looked upon with the
+utmost distrust if their results ran counter to what was found in
+the works of Aristotle or Galen. This spell of ancient authority was
+broken by the anatomists of the sixteenth century, who determined at
+all costs to examine the human body for themselves, and to be guided
+by what their own observations revealed to them; and it was finally
+overcome by the independent genius of two men working in very different
+scientific spheres, Galileo and Harvey. These illustrious observers
+were contemporaries during the greater part of their lives, and were
+some years together at the famous University of Padua. Galileo and
+Harvey refused to be bound by the teachings of Aristotle and Galen, and
+appealed from these authorities to the actual facts of nature which any
+man could observe for himself. Their scientific work is therefore of
+interest, not only for the innate value of the discoveries they made,
+but also because it shows them as pioneers in that independent spirit
+of scientific inquiry to which the great advance in natural knowledge
+since their time is so largely due.
+
+Harvey’s work, by which his name has been made immortal, strikingly
+illustrates this. He was the first to show the nature of the movements
+of the heart, and how the blood moved in the body. He did so by putting
+on one side authority, and directly appealing to observation and
+experiment. The completeness of the success with which this independent
+line was taken, as exemplified in his treatise “On the Movement of the
+Heart and Blood,” is such as to excite the admiration of every modern
+physiologist. “C’est un chef-d’œuvre,” says a distinguished French
+physiologist, Flourens, “ce petit livre de cent pages est le plus beau
+livre de la physiologie.”[1]
+
+  [1] Flourens, Histoire de la Découvert de la Circulation du Sang,
+  1854.
+
+The discovery made by Harvey was this: That the blood passed from the
+heart into the arteries, thence to the veins, by which it was brought
+back to the heart again; that the blood moved more or less in a circle,
+coming back eventually to the point from which it started. In a phrase,
+there was a Circulation of the Blood. Moreover, this circulation
+was of a double nature--one circle being from the right side of the
+heart to the left through the lungs, hence called the Pulmonary or
+Lesser Circulation; the other from the left side of the heart to the
+right, through the rest of the body, known as the Systemic or Greater
+Circulation. Further, that it was the peculiar office of the heart to
+maintain this circulation by its continuous rhythmic beating as long as
+life lasts.
+
+This appears very plain and simple to us now--so easy that he who runs
+may read: as important as simple, for without this knowledge it is no
+exaggeration to say that a real understanding of any important function
+of the human body was impossible. And hence it has been contended with
+much force that not only the science of physiology, but the scientific
+practice of medicine date from this discovery. “To medical practice,”
+says Sir John Simon, “it stands much in the same relation as the
+discovery of the mariner’s compass to navigation; without it, the
+medical practitioner would be all adrift, and his efforts to benefit
+mankind would be made in ignorance and at random.... The discovery is
+incomparably the most important ever made in physiological science,
+bearing and destined to bear fruit for the benefit of all succeeding
+ages.”[2]
+
+  [2] Harvey Tercentenary Memorial Meeting, Folkestone, September 6,
+  1871.
+
+When Harvey first approached the subject, there were all kinds of
+crude and fantastic ideas regarding the functions and uses of the
+heart, bloodvessels, and blood--that the heart was the workshop in
+which were elaborated the spirits, a due supply of which was necessary
+for many parts of the body; that from the heart the arteries carried
+spirits, the veins nutriment to the different parts of the body; that
+the arteries contained blood and air mixed together, or only air; that
+fuliginous vapours, whatever they may be, passed from the heart along
+the bloodvessels; that the septum of the heart, by which its two sides
+are completely separated, was riddled with minute holes, like a fine
+sieve, through which the blood percolated from the right to the left
+side; again, that the heart was the organ in which the heat of the body
+was produced. Another favourite theory was that the blood moved from
+the heart along certain bloodvessels and back again by exactly the same
+channels, after the manner of the rise and fall of the tides, to which
+in fact the movement was likened. More curious still, even the best
+informed appeared to believe that the arteries terminated in nerves.
+
+Notwithstanding these curious and erroneous speculations there was
+not wanting exact and wide knowledge of the anatomy of the human
+body. Indeed, before Harvey was born there had lived and died a most
+remarkable man known to fame as the “Father of Anatomy.” This was
+Vesalius. Vesalius’s knowledge of the human body was so profound that
+the only wonder is that he did not forestall Harvey in the discovery
+of the circulation. As the result of dissections of the body at the
+time when they could be carried out only with great difficulty, and
+often at the risk of severe penalties, Vesalius published, when only
+twenty-eight years of age, a treatise on Anatomy[3] which cannot fail
+to excite the astonishment and admiration of any modern acquainted with
+the subject. This work is illustrated with fine engravings made from
+drawings by John Calcar, a Flemish artist, and pupil of Titian.[4]
+
+  [3] De humani Corporis fabrica, 1543.
+
+  [4] Vasari: “Lives of the Painters,” vols. iii. 519, v. 402
+  (Bohn’s ed.).
+
+The distribution of the bloodvessels in the lungs and many other parts
+of the body, the general structure of the heart, the valves in the
+veins, were all known before Harvey arrived on the scene. More than
+this, the circulation through the lungs, or the Pulmonary Circulation,
+appears to have been known to one person at least. Michael Servetus,
+famous for his martyrdom on account of his religious opinions, in one
+of his theological works[5] does actually describe the blood as passing
+from the right side of the heart to the left through the lungs, and
+gives good reasons for his belief. Servetus, in his early days, had
+been with Vesalius prosector to John Guinterius of Andernach when
+Professor of Anatomy at Paris. Guinterius[6] speaks with admiration of
+the knowledge and abilities of his two young assistants. Like Vesalius,
+Servetus was therefore well acquainted with the anatomy of the body;
+but more, he was a physiologist; and no doubt when the cruelty of
+theological dispute sent him to the stake at the age of forty-four, it
+deprived physiology of a most promising investigator. The book in which
+the account of the Pulmonary Circulation is found has a most curious
+history. All copies of it, except one, were burnt with Servetus. This
+copy became the property of D. Colladon, one of his judges. After
+passing through the library of the Landgrave of Hesse-Cassel it came
+into the hands of a Dr. Mead, who undertook in 1723 to issue a quarto
+edition of it, but before completion the sheets were seized at the
+instance of Dr. Gibson, Bishop of London, and destroyed. The Duc de
+Valise is said to have given 400 guineas for the original copy, and at
+his sale it brought 3,810 livres. It is now in the National Library at
+Paris. It may well be questioned therefore whether the discovery of
+Servetus was ever known to the anatomists, including Harvey, who wrote
+after his death. One of these was Realdus Columbus, who published a
+work on Anatomy[7] six years after Servetus died, in which he shows
+that he clearly understood the valves of the heart, and describes the
+passage of the blood through the lungs. Columbus has been claimed
+as the real discoverer of the circulation and as having forestalled
+Harvey. But neither Servetus nor Columbus had any notion of the Greater
+or Systemic Circulation. And the latter actually says the heart is not
+muscular, and speaks of a to-and-fro movement of the blood in the veins.
+
+  [5] Restitutio Christianismi, 1553.
+
+  [6] Institutiones Anatomici, Epistola Nuncupatoria, 1539.
+
+  [7] De Re Anatomica, 1559.
+
+But a third and much more serious precursor of Harvey as the discoverer
+has been brought forward in the person of Andreas Cæsalpinus[8] of
+Arezzo, justly renowned as the earliest of botanists. He actually used
+the word “circulation” in regard to the passage of the blood through
+the lungs. The claims of Cæsalpinus have been taken up with enthusiasm,
+not to say bitterness, in Italy; and in 1876 his statue was erected
+with much pomp and speechmaking in Rome, and an inscription placed
+upon it recording that he was the first discoverer of the circulation
+of the blood. It is much to be regretted that this display was not
+altogether free from a desire to depreciate Harvey. Wonder may well
+be expressed at this procedure, even after allowing for well-meant
+patriotic ardour, when it is learnt that in his works Cæsalpinus
+speaks of the arteries ending in nerves, of the septum of the heart
+being permeable, and its valves acting imperfectly, and of the veins
+carrying blood to the body for its nourishment. The statements made
+by Cæsalpinus, which at first sight point to his knowledge of the
+circulation, are altogether discounted on perusal of his works, and
+it becomes impossible to believe that he had any clear idea of the
+circulation as we understand it to-day. The misconception has no doubt
+arisen from the interpretation of isolated passages in the light of
+what we now know regarding the circulation. Moreover, it is impossible
+to believe, seeing how well the works of Cæsalpinus were known, that,
+had he ever been regarded as putting forward in them the doctrine of
+the circulation as we now understand it, such a new and startling view
+would not have attracted the attention of the distinguished anatomists
+who were his contemporaries or immediate successors. But that none of
+them ever for a moment saw any such doctrine in the works of Cæsalpinus
+is shown by their writings, and by the surprise with which Harvey’s
+discovery was received.
+
+  [8] Quæstiones Peripateticæ, 1569. De Plantis, 1583.
+
+Even Shakespeare has been cited as being acquainted with the
+circulation of the blood, because he refers to its movement. This only
+illustrates the confusion which has often been made of movement with
+circulation. From the earliest times it had been believed there was
+movement of the blood, but there was no clear or correct idea as to
+the nature of the movement. The view may be ventured that another
+confusion is responsible for a good deal that has been said about
+Harvey having been forestalled in the discovery. It is confusing the
+passage through the lungs of _some_ blood with the _whole mass_ of
+it. It is difficult to believe, on taking a broad view of all their
+statements on the subject, that any of Harvey’s predecessors realised
+that the whole mass of the blood was continually passing through the
+lungs. Had they done so it is further difficult to see how the systemic
+circulation should have escaped them. But of this they certainly had no
+idea.
+
+We may admit all this previous knowledge without its detracting from
+the greatness and merit of Harvey’s work. Although the same anatomical
+facts, and even a glimmering of the Pulmonary Circulation may have been
+present to the minds of his predecessors or contemporaries, yet the
+genius, the spark of originality by which was discovered the proper
+relation to one another of the former, the true significance and
+meaning of the latter, belongs to Harvey and to him alone.
+
+As was said by one of the best informed minds[9] of the eighteenth
+century: “It is not to Cæsalpinus, because of some words of doubtful
+meaning, but to Harvey, the able writer, the laborious contriver
+of so many experiments, the staid propounder of all the arguments
+available in his day, that the immortal glory of having discovered the
+Circulation of the Blood is to be assigned.”
+
+  [9] Haller, Elementa Physiologiæ, vol. i. lib. iii., 1757.
+
+William Harvey was born on April 1, in the year 1578, at Folkestone,
+the eldest of seven sons of a well-to-do Kentish yeoman. When ten years
+old he was sent to the Grammar School at Canterbury, and remained there
+until he was fifteen. He then proceeded to Caius College, Cambridge,
+where after three years’ residence he took the usual degree. Desiring
+to enter the medical profession, he adopted a course, not unusual
+at that time, of going abroad to study at a Continental University,
+a course due to the absence of scientific teaching in the English
+Universities on the one hand, and to its excellence in those of the
+Continent on the other. Consequently, in the year 1597, when nineteen
+years of age, Harvey directed his steps towards Padua, then famous
+throughout Europe for its medical school, and especially for its school
+of anatomy. Earlier in the century the chair of Anatomy had been filled
+by Vesalius; it was now occupied by another celebrated anatomist,
+known as Fabricius of Aquapendente. Harvey enjoyed the advantage of
+studying anatomy under this great teacher, and the visitor to Padua
+to-day can see the little anatomical theatre with its carved desks,
+over one of which, no doubt, our illustrious discoverer leant with
+eager attention whilst Fabricius demonstrated on the body below. We
+can see the professor with pride explaining to his pupils the valves
+in the veins which he had discovered, yet not appreciating their
+meaning and importance; that was to be done a few years hence by the
+young student listening above. It is very interesting to learn that
+at this time Galileo was also a professor at Padua, and was lecturing
+with such success that students flocked to hear him from all parts
+of Europe. Surely it is difficult to imagine any seat of learning
+more distinguished and attractive than the University of Padua must
+have been during the five years Harvey spent there. At the end of
+this time he received his degree of doctor, the diploma for which is
+couched in the most eulogistic language, showing how by his studies and
+abilities he had attracted the attention and earned the commendation
+of the distinguished professors who then held the chairs of Anatomy,
+Medicine, and Surgery in the University. He now returned to England,
+and was granted the degree of Doctor of Medicine by the University of
+Cambridge.
+
+Soon after, Harvey settled in London and began to practise. In 1607
+he was elected a Fellow of the Royal College of Physicians, and in
+1615 was appointed Lecturer in Anatomy to that ancient and important
+foundation. In 1609 he had been elected physician to St. Bartholomew’s
+Hospital.
+
+In 1616, the year Shakespeare died, Harvey probably began in his
+classes to teach that doctrine which has immortalised his name. He
+began to show his pupils, and whoever else desired to be present,
+from dissections of the human body and of animals, and by experiment
+when necessary, the true office of the heart, the true course of the
+movement of the blood in the body. This he continued to do for more
+than ten years, listening patiently to objections, indeed inviting
+criticisms so that the complete truth might be discovered free from
+any falsities or misconceptions. At last, upon the earnest entreaties
+of his most distinguished medical friends, he was persuaded to publish
+his discovery to the world. These facts are of interest in throwing
+some light on Harvey’s character. A discoverer who waits years before
+publishing what he is firmly convinced in his own mind is a new idea,
+not to say a great discovery, must be possessed of that calmness
+of mind and abnegation of self which we associate with the true
+philosopher. A discoverer who employs so long an interval to give
+opportunity for criticism, and to deal with objections, must indeed be
+wedded to truth.
+
+This devotion to truth, however, had its reward, for it resulted in
+one of the most remarkable scientific treatises ever written. When, in
+1628, Harvey published at Frankfort-on-Main, his book on “The Movement
+of the Heart and Blood,” he gave his reasons for believing the blood to
+circulate, and explained the use of the heart in language so simple,
+so clear, so exact, that now, nearly three hundred years afterwards,
+the most accomplished physiologist can hardly improve on it. This
+assuredly is a fact almost unique in the history of science.
+
+And yet with all this the fact remains that Harvey never really knew,
+from the nature of the case could not know, how the blood passed from
+the arteries to the veins--how, in other words, an essential part
+of the circulation was actually accomplished. The blood passes from
+the arteries to the veins through minute microscopic tubes termed
+capillaries. In Harvey’s day the microscope was not sufficiently
+powerful to reveal such fine structures to human vision, and he was
+therefore necessarily ignorant of their existence. Looked at from this
+point of view, the discovery affords a very good example of what has
+been aptly termed the scientific use of the imagination. Although, with
+his imperfect microscope, it was impossible for him to know how the
+blood actually passed from the arteries to the veins, yet as the result
+of his observations and experiments he was able to infer and to state
+the grounds for his inference in clear, forcible, and most convincing
+language, that the blood must circulate, and circulate in one direction
+only, viz. from the heart into the arteries, thence to the veins, by
+which it was brought back to the heart again. His imagination was thus
+enabled to bridge over the gulf between the arteries and veins which
+his eyes, with the imperfect instrument then alone at his disposal,
+were quite unable to cross. It was not until four years after Harvey’s
+death that the microscope had been sufficiently improved to enable an
+Italian anatomist named Malpighi,[10] in the year 1661, to actually
+observe the capillaries uniting by their networks arteries and veins.
+
+  [10] De Pulmonibus, Observationes Anatomici, 1663.
+
+The work was published at Frankfort doubtless that it might be more
+easily disseminated over the Continent. It made a sensation among
+the learned of all countries. Its conclusions were opposed by the
+older physicians; but by the younger scientific men it was by no
+means received with disfavour. Amongst the latter was the philosopher
+Descartes, whose name was then a power in Europe. The philosophical,
+yet keenly practical mind of Descartes grasped the discovery with
+avidity and supported it with ardour. In his celebrated “Discours de la
+Méthode,”[11] he refers to the discovery of “an English physician,” and
+describes with enthusiasm the anatomy and use of the heart. Although
+we have no certain information on the point it is quite possible that
+Descartes may have known Harvey, for in the year 1631 he is said to
+have paid a visit to England; and in his second reply to Riolan Harvey
+refers to “the ingenious and acute Descartes,” and says the honourable
+mention of his name demands his acknowledgments. Thus the discovery
+became widely known and largely adopted.
+
+  [11] First published at Leyden in 4to, 1637.
+
+One result of the publication of his discovery was only in keeping with
+the experience of many great and original minds before and after his
+time. In the things of this world his discovery was of little service
+to him. His practice fell off. Patients feared to put themselves
+under the care of one who was accused by his envious detractors of
+being crack-brained, and of putting forward new-fangled and dangerous
+doctrines. One who knew Harvey writes as follows: “I have heard him
+say that after his booke of the Circulation of the Blood came out he
+fell mightily in his practice, and ’twas believed by the vulgar that
+he was crack-brained, and all the physitians were against him, with
+much adoe at last in about 20 or 30 years time it was received in all
+the universities in the world, and as Mr. Hobbs says in his book ‘De
+Corpore,’ he is the only man perhaps that ever lived to see his own
+doctrine established in his lifetime.”[12]
+
+  [12] John Aubrey, “Lives and Letters of Eminent Persons,” London,
+  1813.
+
+There was one striking exception to this treatment. The King, Charles
+I., not only appointed Harvey his physician, but showed the liveliest
+interest in his discovery. Harvey explained his new doctrine on the
+body before the King. Whatever opinions may be held regarding the
+moral and political character of that unfortunate monarch, it must be
+admitted that in aiding and befriending Vandyke and Harvey he showed
+himself an enlightened patron of both art and science. Harvey continued
+the King’s physician, and held this position when, in 1641, Charles
+declared war against the Parliament. It is here curious to learn that
+although openly declared enemies the Parliament was still mindful
+of the King’s person, for not only with their consent, but by their
+desire, Harvey remained his physician.[13] Notwithstanding his intimate
+connection with the Court, Harvey appears to have taken no active part
+in the great political struggle now taking place. The little solicitude
+he had for it is shown by an anecdote told of him at the first battle
+of the Civil War. “When King Charles,” says a contemporary author,[14]
+“by reason of the tumults left London, Harvey attended him, and was
+at the fight of Edgehill with him: and during the fight the Prince
+and the Duke of York were committed to his care. He told me that he
+withdrew with them under a hedge, and tooke out of his pocket a booke
+and read. But he had not read very long before a bullet of a great gun
+grazed on the ground near him, which made him remove his station.”
+This anecdote well illustrates Harvey’s calm and peaceful character.
+This was also shown by the restrained and dignified manner in which he
+treated the many writers who attacked him, sometimes in anything but
+choice language, after the publication of his great discovery. Anything
+like controversy for controversy’s sake was wholly foreign to his
+nature. “To return evil speaking with evil speaking,” he remarks in a
+reply to one of his critics, “I hold to be unworthy of a philosopher
+and a searcher after truth. I believe I shall do better and more
+advisedly if I meet so many indications of ill breeding with the light
+of faithful and conclusive observation.”[15] To many of the attacks
+made on his discovery or on himself, he therefore did not condescend
+to reply. And when from the eminence of his opponents he felt called
+upon to do so, he replied with the utmost courtesy and kindliness. But
+whilst admitting the high claims to distinction on other grounds of
+his antagonist, he proceeded on this particular question to utterly
+demolish him with clear facts and stern irrefutable arguments and
+experiments. He called upon his opponents to observe the facts and
+make the experiments for themselves, instead of citing the opinions
+of authors centuries old, or making long discourses on spirits,
+fuliginous vapours, and the tides of Euripus. This is well illustrated
+in his replies to Riolan. The arguments of Riolan would hardly seem
+to have entitled him to the honour of the special notice of the great
+discoverer. But probably his position as Anatomist in the University
+of Paris, and of physician to the Queen-Mother, Marie de Medicis, made
+Harvey pick out his criticisms as a suitable excuse for replying to his
+opponents. Harvey’s mode of argument is well shown by the following
+admirable remarks on the Manner and Order of Acquiring Knowledge, in
+his introduction to the work on “The Generation of Animals”: “Sensible
+things are of themselves and antecedent; things of intellect however
+are consequential and arise from the former, and indeed we can in
+no way attain to them without the help of the others. And hence it
+is that without the due admonition of the senses, without frequent
+observation and reiterated experiment, our mind goes astray after
+phantoms and appearances. Diligent observation is therefore requisite
+in every science, and the senses are to be frequently appealed to.
+We are, I say, to strive after personal experience, not to rely on
+the experience of others: without which indeed no one can properly
+become a student of any branch of natural science.” Referring to his
+own particular work he says: “I would not have you therefore, gentle
+reader, to take anything on trust from me concerning the Generation
+of Animals: I appeal to your own eyes as my witness and judge. For as
+all true science rests upon those principles which have their origin
+in the operation of the senses, particular care is to be taken that
+by repeated dissection the grounds of our present subject be fully
+established.... The method of investigating truth commonly pursued at
+this time therefore is to be held erroneous and almost foolish, in
+which so many inquire what others have said, and omit to ask whether
+the things themselves be actually so or not.”
+
+  [13] De Generatione Ex. lxviii.
+
+  [14] Aubrey, _loc. cit._
+
+  [15] _Vide_ Second Reply to Riolan, p. 133 post.
+
+When the King made Oxford his headquarters, Harvey was with him,
+and was appointed head of Merton College. But in 1646, on Oxford
+surrendering to the Parliamentary forces, he gave up his wardenship
+and quitted the city. Having no call to take an active part in the
+political contest, and now verging on threescore-and-ten, he retired
+from his position of physician to the King and went to London, where
+he was hospitably entertained in the houses of his brothers, who were
+wealthy merchants in the City. Here he no doubt once again devoted
+himself to scientific observation, the nature of which became evident,
+when in 1651 he was persuaded, somewhat against his own inclination,
+by his friend, Dr. George Ent, to allow the publication of his book
+on “The Generation of Animals.” In this work he appears as a pioneer
+in the difficult science of Embryology, working under most adverse
+conditions, for he had no microscope worthy of the name. Whilst,
+therefore, of no great value in the light of our present knowledge, it
+is a monument of the author’s industry and of his enthusiastic devotion
+to physiological research. It contains a great number of acute and
+interesting observations; and he had evidently made many more, for
+he says that his papers on the Generation of Insects were lost as a
+result of the tumults which arose at the outbreak of the Civil War.
+He told Aubrey that no grief was so crucifying to him as the loss
+of these papers. The King took a direct personal interest in these
+investigations,[16] and supplied him with deer from the Royal Parks in
+order to further them.
+
+  [16] De Generatione Ex. lxix
+
+In two respects the work on Generation is worthy of more than a
+mere passing notice, and entitles its author to the possession of
+almost prophetic genius. The first is the enunciation of the great
+generalisation _omne vivum ex ovo_. Although this particular phrase is
+nowhere to be found, as is often erroneously stated, in the treatise on
+Generation, yet a perusal of Exercises I., LI., and LXII. will convince
+any one that Harvey had grasped this great idea, which has since been
+so abundantly verified. The other is his doctrine of _Epigenesis_, or
+the formation of the new organism from the homogeneous substance of the
+germ by the successive differentiation of parts, that all parts are not
+formed at once and together, but in succession one after the other. He
+put forward this doctrine of Epigenesis in contradistinction to that of
+_Metamorphosis_, according to which the germ was suddenly transformed
+into a miniature of the whole organism which subsequently grew. This
+is certainly very remarkable, and entitles him to be regarded as a
+forerunner of Caspar Wolff, Von Baer, and the modern Evolutionary
+School, which sees in the development of the organism from the ovum a
+passage from the homogeneous to the heterogeneous by a gradual process
+of differentiation, from a germ in which there is no sign of any of the
+parts of the adult to an organism with all its many and varied organs.
+Commenting on certain passages of Exercise XLV., in which Harvey
+specially refers to this subject, the late Professor Huxley remarked:
+“In these words, by the divination of genius, Harvey in the seventeenth
+century summarised the outcome of the work of all those who, with
+appliances he could not dream of, are continuing his labours in the
+nineteenth century.”[17]
+
+  [17] Evolution: “Encyclopædia Britannica,” 9th ed. 1878.
+
+In addition to his long sojourn in Italy as a student, Harvey made
+several other visits to the Continent. In 1630 he consented to
+accompany the young Duke of Lennox in his travels abroad. He had
+returned by 1632, for in that year he was formally appointed physician
+to Charles I. Again, in 1636 he accompanied the Earl of Arundel on his
+embassy to the Emperor, and was absent some nine months. According to
+Aubrey, in 1649 Harvey, with his friend Dr. George Ent, again visited
+Italy. Some doubt has been thrown on this journey, but it receives
+support from a letter of Harvey’s to John Nardi, of Florence, written
+on November 30, 1653, in which he concludes by asking his correspondent
+to mention his name to his Serene Highness the Duke of Tuscany, “with
+thankfulness for the distinguished honour he did me when I was formerly
+in Florence.”
+
+In his old age Harvey was honoured in a striking manner by those
+best fitted to judge of the merit and value of his life’s work. His
+statue was erected in the hall of the College of Physicians. As an
+acknowledgment, as it were, of this remarkable compliment, he built at
+his own expense a Convocation Hall and a Library as additions to the
+College, and contributed books, curiosities, and surgical instruments
+for the Library and Museum. Not content with this, he made over to the
+College, the year before he died, his paternal estate, stipulating
+that a certain sum out of it should be employed every year for the
+delivery of an Oration in commemoration of benefactors of the College,
+and of those who had added anything to medical knowledge during the
+year. This Oration is annually delivered by some distinguished member
+of the medical profession, and is inseparably associated with the name
+of Harvey. This graceful act shows how in his declining years Harvey’s
+thoughts were turned to the future. It had for its object to further
+the progress of scientific knowledge, to stimulate studies in the
+pursuit of which he had shown himself such a master. He wished when old
+and infirm, bereft of the power of again entering the arena of active
+work and investigation, to still do something to increase and extend
+that knowledge which is of so great service to mankind--a knowledge of
+the human body in health and in disease.
+
+Harvey died on June 3, in the year 1657, in the eightieth year of his
+age, and was buried at the village of Hempstead, in Essex, in a vault
+which had been built by his brother Eliab.
+
+  E. A. PARKYN.
+
+  LONDON, _November, 1906_.
+
+The following is a list of Harvey’s works, and of the more important
+references to his life and discovery:--
+
+  “MS. Memorandum Book,” dated 1616, entitled “Prælectiones Anatomicæ
+  Universalis.” It is in Harvey’s handwriting, and contains the
+  origin of the Circulation. (In the British Museum.) A Facsimile was
+  published in 1886 by the College of Physicians.
+
+  “MS. De Musculis,” 1627, in Harvey’s handwriting. (Brit.
+  Mus.) A Notice on this manuscript was published in 1850 by
+  G. E. Paget, M.D.
+
+  “MS. of Prescriptions,” 1647. (Brit. Mus.)
+
+  “MS. Diploma of Doctor of Medicine” to Harvey by University of Padua,
+  April 25, 1602. (In the College of Physicians.)
+
+  “MS. Illuminated Grant of M.D.,” by University of Padua to an
+  Englishman, Thomas Heron, which is witnessed by “Guigliomo Harveo
+  Consiliaris Magnificæ Nationis Anglæ.” It is dated March 19, 1602.
+  (Brit. Mus.)
+
+  “MS. Oratio Harveiana,” 1661, ab. E. Greaves. (Brit. Mus.)
+
+  “De Motu Cordis et Sanguinis,” Frankfort-on-Main, 1628. First English
+  edition published by R. Lowndes, with preface by Zachariah Wood,
+  Physician of Rotterdam, 1653.
+
+  “Anatomical Examination of the Body of Thomas Parr, aged 152 years,”
+  made in 1635, but not published until 1669 in Betts’ “De Ortu et
+  Natura Sanguinis.”
+
+  “Two Disquisitions in Reply to John Riolan, jun.,” 1649.
+
+  “De Generatione Animalium,” London, 1651; in English, 1653.
+
+       *       *       *       *       *
+
+  “Biographica Britannica,” 1750. The Life of Harvey, containing much
+  curious information and discussion, is evidently that on which all
+  subsequent biographies are based.
+
+  “Harveii Opera Omnia,” edited by Dr. Akenside, with Life by Thomas
+  Lawrence, M.D., 1766.
+
+  “Lives and Letters of Eminent Persons,” by John Aubrey, 1813.
+
+  “Records of William Harvey, with Notes,” by James Paget, of St.
+  Bartholomew’s Hospital, 1846.
+
+  “The Works of William Harvey,” translated by Robert Willis, M.D.
+  (Sydenham Society, 1848). This excellent translation has been
+  followed in the present volume.
+
+  “Histoire de la Découverte de la Circulation du Sang,” par
+  M. J. P. Flourens, 1854.
+
+  “Circulation of the Blood: its History, Cause, and Course,” by
+  G. H. Lewes in “Physiology of Common Life,” 1859.
+
+  “Memorials of Harvey,” collected by J. H. Aveling, 1875.
+
+  “William Harvey: a history, etc.,” by Robert Willis, M.D., 1878.
+
+  “Roll of the Royal College of Physicians,” by William Munk, M.D., 2nd
+  ed., 1878.
+
+  Huxley on “Evolution,” in “Encyclopædia Britannica,” 9th ed., 1878.
+
+  “Experimental Physiology,” by Sir R. Owen, 1882.
+
+  “A Defence of Harvey,” by George Johnson, M.D., 1884.
+
+  “Masters of Medicine: William Harvey,” by D’Arcy Power 1897.
+
+
+
+
+NOTE
+
+
+In the present edition of Harvey’s Treatise on the Circulation of the
+Blood, which is reprinted from the Sydenham Society’s edition of 1847,
+the footnotes by Willis, the editor and translator of that edition, are
+distinguished by brackets from Harvey’s original notes.
+
+
+
+
+TABLE OF CONTENTS
+
+
+  AN ANATOMICAL DISQUISITION ON THE
+  MOTION OF THE HEART AND BLOOD IN
+  ANIMALS
+
+                                                                   PAGE
+
+  EDITOR’S INTRODUCTION                                             vii
+
+  DEDICATION                                                          3
+
+  INTRODUCTION                                                        9
+
+  CHAP.
+
+  I. THE AUTHOR’S MOTIVES FOR WRITING                                22
+
+  II. OF THE MOTIONS OF THE HEART, AS SEEN IN THE DISSECTION OF
+        LIVING ANIMALS                                               24
+
+  III. OF THE MOTIONS OF ARTERIES, AS SEEN IN THE DISSECTION OF
+        LIVING ANIMALS                                               28
+
+  IV. OF THE MOTION OF THE HEART AND ITS AURICLES, AS SEEN IN THE
+        BODIES OF LIVING ANIMALS                                     31
+
+  V. OF THE MOTION, ACTION, AND OFFICE OF THE HEART                  37
+
+  VI. OF THE COURSE BY WHICH THE BLOOD IS CARRIED FROM THE VENA
+        CAVA INTO THE ARTERIES, OR FROM THE RIGHT INTO THE LEFT
+        VENTRICLE OF THE HEART                                       42
+
+  VII. THE BLOOD PERCOLATES THE SUBSTANCE OF THE LUNGS FROM THE
+        RIGHT VENTRICLE OF THE HEART INTO THE PULMONARY VEINS
+        AND LEFT VENTRICLE                                           49
+
+  VIII. OF THE QUANTITY OF BLOOD PASSING THROUGH THE HEART FROM
+        THE VEINS TO THE ARTERIES; AND OF THE CIRCULAR MOTION
+        OF THE BLOOD                                                 55
+
+  IX. THAT THERE IS A CIRCULATION OF THE BLOOD IS CONFIRMED FROM
+        THE FIRST PROPOSITION                                        58
+
+  X. THE FIRST POSITION: OF THE QUANTITY OF BLOOD PASSING FROM
+        THE VEINS TO THE ARTERIES. AND THAT THERE IS A CIRCUIT OF
+        THE BLOOD, FREED FROM OBJECTIONS, AND FARTHER CONFIRMED
+        BY EXPERIMENT                                                64
+
+  XI. THE SECOND POSITION IS DEMONSTRATED                            67
+
+  XII. THAT THERE IS A CIRCULATION OF THE BLOOD IS SHOWN FROM THE
+        SECOND POSITION DEMONSTRATED                                 75
+
+  XIII. THE THIRD POSITION IS CONFIRMED: AND THE CIRCULATION OF
+        THE BLOOD IS DEMONSTRATED FROM IT                            78
+
+  XIV. CONCLUSION OF THE DEMONSTRATION OF THE CIRCULATION            85
+
+  XV. THE CIRCULATION OF THE BLOOD IS FURTHER CONFIRMED BY
+        PROBABLE REASONS                                             86
+
+  XVI. THE CIRCULATION OF THE BLOOD IS FURTHER PROVED FROM
+        CERTAIN CONSEQUENCES                                         90
+
+  XVII. THE MOTION AND CIRCULATION OF THE BLOOD ARE CONFIRMED
+        FROM THE PARTICULARS APPARENT IN THE STRUCTURE OF THE
+        HEART, AND FROM THOSE THINGS WHICH DISSECTION UNFOLDS        96
+
+  THE FIRST ANATOMICAL DISQUISITION ON THE CIRCULATION OF THE
+        BLOOD, ADDRESSED TO JOHN RIOLAN                             111
+
+  A SECOND DISQUISITION TO JOHN RIOLAN; IN WHICH MANY OBJECTIONS
+        TO THE CIRCULATION OF THE BLOOD ARE REFUTED                 131
+
+
+  LETTERS
+
+  TO CASPAR HOFMANN, M.D.                                           175
+
+  TO PAUL MARQUARD SLEGEL, OF HAMBURG                               176
+
+  TO THE VERY EXCELLENT JOHN NARDI, OF FLORENCE                     184
+
+  IN REPLY TO R. MORISON, M.D., OF PARIS                            185
+
+  TO THE MOST EXCELLENT AND LEARNED JOHN NARDI, OF FLORENCE         193
+
+  TO JOHN DANIEL HORST, PRINCIPAL PHYSICIAN OF HESSE-DARMSTADT      195
+
+  TO THE DISTINGUISHED AND LEARNED JOHN DAN. HORST, PRINCIPAL
+        PHYSICIAN AT THE COURT OF HESSE-DARMSTADT                   197
+
+  TO THE VERY LEARNED JOHN NARDI, OF FLORENCE, A MAN DISTINGUISHED
+        ALIKE FOR HIS VIRTUES, LIFE, AND ERUDITION                  199
+
+  TO THE DISTINGUISHED AND ACCOMPLISHED JOHN VLACKVELD, PHYSICIAN
+        AT HARLEM                                                   200
+
+
+  APPENDIX
+
+  THE ANATOMICAL EXAMINATION OF THE BODY OF THOMAS PARR, WHO
+        DIED AT THE AGE OF ONE HUNDRED AND FIFTY-TWO YEARS;
+        MADE BY WILLIAM HARVEY                                      205
+
+  THE LAST WILL AND TESTAMENT OF WILLIAM HARVEY, M.D.               212
+
+  INDEX                                                             223
+
+
+
+
+AN ANATOMICAL DISQUISITION
+
+ON THE
+
+MOTION OF THE HEART AND BLOOD IN ANIMALS
+
+
+
+
+TO
+
+THE MOST ILLUSTRIOUS AND INDOMITABLE PRINCE
+
+CHARLES
+
+KING OF GREAT BRITAIN, FRANCE, AND IRELAND
+
+DEFENDER OF THE FAITH
+
+MOST ILLUSTRIOUS PRINCE!
+
+
+The heart of animals is the foundation of their life, the sovereign
+of everything within them, the sun of their microcosm, that upon
+which all growth depends, from which all power proceeds. The King, in
+like manner, is the foundation of his kingdom, the sun of the world
+around him, the heart of the republic, the fountain whence all power,
+all grace doth flow. What I have here written of the motions of the
+heart I am the more emboldened to present to your Majesty, according
+to the custom of the present age, because almost all things human are
+done after human examples, and many things in a King are after the
+pattern of the heart. The knowledge of his heart, therefore, will not
+be useless to a Prince, as embracing a kind of Divine example of his
+functions,--and it has still been usual with men to compare small
+things with great. Here, at all events, best of Princes, placed as you
+are on the pinnacle of human affairs, you may at once contemplate the
+prime mover in the body of man, and the emblem of your own sovereign
+power. Accept therefore, with your wonted clemency, I most humbly
+beseech you, illustrious Prince, this, my new Treatise on the Heart;
+you, who are yourself the new light of this age, and indeed its very
+heart; a Prince abounding in virtue and in grace, and to whom we gladly
+refer all the blessings which England enjoys, all the pleasure we have
+in our lives.
+
+  Your Majesty’s most devoted servant,
+  WILLIAM HARVEY.
+
+  LONDON, 1628.
+
+
+
+
+  To his very dear Friend, DOCTOR ARGENT, the excellent and
+  accomplished President of the Royal College of Physicians, and to
+  other learned Physicians, his most esteemed Colleagues.
+
+
+I have already and repeatedly presented you, my learned friends, with
+my new views of the motion and function of the heart, in my anatomical
+lectures; but having now for nine years and more confirmed these views
+by multiplied demonstrations in your presence, illustrated them by
+arguments, and freed them from the objections of the most learned and
+skilful anatomists, I at length yield to the requests, I might say
+entreaties, of many, and here present them for general consideration in
+this treatise.
+
+Were not the work indeed presented through you, my learned friends,
+I should scarce hope that it could come out scatheless and complete;
+for you have in general been the faithful witnesses of almost all the
+instances from which I have either collected the truth or confuted
+error; you have seen my dissections, and at my demonstrations of all
+that I maintain to be objects of sense, you have been accustomed to
+stand by and bear me out with your testimony. And as this book alone
+declares the blood to course and revolve by a new route, very different
+from the ancient and beaten pathway trodden for so many ages, and
+illustrated by such a host of learned and distinguished men, I was
+greatly afraid lest I might be charged with presumption did I lay my
+work before the public at home, or send it beyond seas for impression,
+unless I had first proposed its subject to you, had confirmed its
+conclusions by ocular demonstrations in your presence, had replied
+to your doubts and objections, and secured the assent and support of
+our distinguished President. For I was most intimately persuaded,
+that if I could make good my proposition before you and our College,
+illustrious by its numerous body of learned individuals, I had less
+to fear from others; I even ventured to hope that I should have the
+comfort of finding all that you had granted me in your sheer love of
+truth, conceded by others who were philosophers like yourselves. For
+true philosophers, who are only eager for truth and knowledge, never
+regard themselves as already so thoroughly informed, but that they
+welcome further information from whomsoever and from whencesoever it
+may come; nor are they so narrow-minded as to imagine any of the arts
+or sciences transmitted to us by the ancients, in such a state of
+forwardness or completeness, that nothing is left for the ingenuity and
+industry of others; very many, on the contrary, maintain that all we
+know is still infinitely less than all that still remains unknown; nor
+do philosophers pin their faith to others’ precepts in such wise that
+they lose their liberty, and cease to give credence to the conclusions
+of their proper senses. Neither do they swear such fealty to their
+mistress Antiquity, that they openly, and in sight of all, deny and
+desert their friend Truth. But even as they see that the credulous
+and vain are disposed at the first blush to accept and to believe
+everything that is proposed to them, so do they observe that the dull
+and unintellectual are indisposed to see what lies before their eyes,
+and even to deny the light of the noonday sun. They teach us in our
+course of philosophy as sedulously to avoid the fables of the poets and
+the fancies of the vulgar, as the false conclusions of the sceptics.
+And then the studious, and good, and true, never suffer their minds
+to be warped by the passions of hatred and envy, which unfit men duly
+to weigh the arguments that are advanced in behalf of truth, or to
+appreciate the proposition that is even fairly demonstrated; neither
+do they think it unworthy of them to change their opinion if truth
+and undoubted demonstration require them so to do; nor do they esteem
+it discreditable to desert error, though sanctioned by the highest
+antiquity; for they know full well that to err, to be deceived, is
+human; that many things are discovered by accident, and that many may
+be learned indifferently from any quarter, by an old man from a youth,
+by a person of understanding from one of inferior capacity.
+
+My dear colleagues, I had no purpose to swell this treatise into a
+large volume by quoting the names and writings of anatomists, or to
+make a parade of the strength of my memory, the extent of my reading,
+and the amount of my pains; because I profess both to learn and to
+teach anatomy, not from books but from dissections; not from the
+positions of philosophers but from the fabric of nature; and then
+because I do not think it right or proper to strive to take from the
+ancients any honour that is their due, nor yet to dispute with the
+moderns, and enter into controversy with those who have excelled in
+anatomy and been my teachers, I would not charge with wilful falsehood
+any one who was sincerely anxious for truth, nor lay it to any one’s
+door as a crime that he had fallen into error. I avow myself the
+partisan of truth alone; and I can indeed say that I have used all my
+endeavours, bestowed all my pains on an attempt to produce something
+that should be agreeable to the good, profitable to the learned, and
+useful to letters.
+
+  Farewell, most worthy Doctors,
+  And think kindly of your Anatomist,
+  WILLIAM HARVEY.
+
+
+
+
+AN ANATOMICAL DISQUISITION
+
+ON THE
+
+MOTION OF THE HEART AND BLOOD IN ANIMALS
+
+
+
+
+INTRODUCTION
+
+
+As we are about to discuss the motion, action, and use of the heart
+and arteries, it is imperative on us first to state what has been
+thought of these things by others in their writings, and what has been
+held by the vulgar and by tradition, in order that what is true may
+be confirmed, and what is false set right by dissection, multiplied
+experience, and accurate observation.
+
+Almost all anatomists, physicians, and philosophers, up to the present
+time, have supposed, with Galen, that the object of the pulse was the
+same as that of respiration, and only differed in one particular,
+this being conceived to depend on the animal, the respiration on the
+vital faculty; the two, in all other respects, whether with reference
+to purpose or to motion, comporting themselves alike. Whence it is
+affirmed, as by Hieronymus Fabricius of Aquapendente, in his book
+on “Respiration,” which has lately appeared, that as the pulsation
+of the heart and arteries does not suffice for the ventilation and
+refrigeration of the blood, therefore were the lungs fashioned to
+surround the heart. From this it appears, that whatever has hitherto
+been said upon the systole and diastole, on the motion of the heart
+and arteries, has been said with especial reference to the lungs.
+
+But as the structure and movements of the heart differ from those of
+the lungs, and the motions of the arteries from those of the chest, so
+seems it likely that other ends and offices will thence arise, and that
+the pulsations and uses of the heart, likewise of the arteries, will
+differ in many respects from the heavings and uses of the chest and
+lungs. For did the arterial pulse and the respiration serve the same
+ends; did the arteries in their diastole take air into their cavities,
+as commonly stated, and in their systole emit fuliginous vapours by
+the same pores of the flesh and skin; and further, did they, in the
+time intermediate between the diastole and the systole, contain air,
+and at all times either air, or spirits, or fuliginous vapours, what
+should then be said to Galen, who wrote a book on purpose to show
+that by nature the arteries contained blood, and nothing but blood;
+neither spirits nor air, consequently, as may be readily gathered from
+the experiments and reasonings contained in the same book? Now if the
+arteries are filled in the diastole with air then taken into them (a
+larger quantity of air penetrating when the pulse is large and full),
+it must come to pass, that if you plunge into a bath of water or of
+oil when the pulse is strong and full, it ought forthwith to become
+either smaller or much slower, since the circumambient bath will render
+it either difficult or impossible for the air to penetrate. In like
+manner, as all the arteries, those that are deep-seated as well as
+those that are superficial, are dilated at the same instant, and with
+the same rapidity, how were it possible that air should penetrate to
+the deeper parts as freely and quickly through the skin, flesh, and
+other structures, as through the mere cuticle? And how should the
+arteries of the fœtus draw air into their cavities through the abdomen
+of the mother and the body of the womb? And how should seals, whales,
+dolphins, and other cetaceans, and fishes of every description, living
+in the depths of the sea, take in and emit air by the diastole and
+systole of their arteries through the infinite mass of waters? For to
+say that they absorb the air that is infixed in the water, and emit
+their fumes into this medium, were to utter something very like a mere
+figment. And if the arteries in their systole expel fuliginous vapours
+from their cavities through the pores of the flesh and skin, why not
+the spirits, which are said to be contained in these vessels, at the
+same time, since spirits are much more subtile than fuliginous vapours
+or smoke? And further, if the arteries take in and cast out air in the
+systole and diastole, like the lungs in the process of respiration,
+wherefore do they not do the same thing when a wound is made in one of
+them, as is done in the operation of arteriotomy? When the windpipe is
+divided, it is sufficiently obvious that the air enters and returns
+through the wound by two opposite movements; but when an artery is
+divided, it is equally manifest that blood escapes in one continuous
+stream, and that no air either enters or issues. If the pulsations
+of the arteries fan and refrigerate the several parts of the body as
+the lungs do the heart, how comes it, as is commonly said, that the
+arteries carry the vital blood into the different parts, abundantly
+charged with vital spirits, which cherish the heat of these parts,
+sustain them when asleep, and recruit them when exhausted? and how
+should it happen that, if you tie the arteries, immediately the parts
+not only become torpid, and frigid, and look pale, but at length cease
+even to be nourished? This, according to Galen, is because they are
+deprived of the heat which flowed through all parts from the heart,
+as its source; whence it would appear that the arteries rather carry
+warmth to the parts than serve for any fanning or refrigeration.
+Besides, how can the diastole [of the arteries] draw spirits from the
+heart to warm the body and its parts, and, from without, means of
+cooling or tempering them? Still further, although some affirm that
+the lungs, arteries, and heart have all the same offices, they yet
+maintain that the heart is the workshop of the spirits, and that the
+arteries contain and transmit them; denying, however, in opposition
+to the opinion of Columbus, that the lungs can either make or contain
+spirits; and then they assert, with Galen, against Erasistratus, that
+it is blood, not spirits, which is contained in the arteries.
+
+These various opinions are seen to be so incongruous and mutually
+subversive, that every one of them is not unjustly brought under
+suspicion. That it is blood and blood alone which is contained in the
+arteries is made manifest by the experiment of Galen, by arteriotomy,
+and by wounds; for from a single artery divided, as Galen himself
+affirms in more than one place, the whole of the blood may be withdrawn
+in the course of half an hour, or less. The experiment of Galen
+alluded to is this: “If you include a portion of an artery between
+two ligatures, and slit it open lengthways, you will find nothing but
+blood;” and thus he proves that the arteries contain blood only. And
+we too may be permitted to proceed by a like train of reasoning: if we
+find the same blood in the arteries that we find in the veins, which
+we have tied in the same way, as I have myself repeatedly ascertained,
+both in the dead body and in living animals, we may fairly conclude
+that the arteries contain the same blood as the veins, and nothing but
+the same blood. Some, whilst they attempt to lessen the difficulty
+here, affirming that the blood is spirituous and arterious, virtually
+concede that the office of the arteries is to carry blood from the
+heart into the whole of the body, and that they are therefore filled
+with blood; for spirituous blood is not the less blood on that account.
+And then no one denies that the blood as such, even the portion of it
+which flows in the veins, is imbued with spirits. But if that portion
+which is contained in the arteries be richer in spirits, it is still
+to be believed that these spirits are inseparable from the blood, like
+those in the veins: that the blood and spirits constitute one body
+(like whey and butter in milk, or heat [and water] in hot water), with
+which the arteries are charged, and for the distribution of which from
+the heart they are provided, and that this body is nothing else than
+blood. But if this blood be said to be drawn from the heart into the
+arteries by the diastole of these vessels, it is then assumed that the
+arteries by their distension are filled with blood, and not with the
+ambient air, as heretofore; for if they be said also to become filled
+with air from the ambient atmosphere, how and when, I ask, can they
+receive blood from the heart? If it be answered: during the systole; I
+say, that seems impossible; the arteries would then have to fill whilst
+they contracted; in other words, to fill, and yet not become distended.
+But if it be said: during the diastole, they would then, and for two
+opposite purposes, be receiving both blood and air, and heat and cold;
+which is improbable. Further, when it is affirmed that the diastole of
+the heart and arteries is simultaneous, and the systole of the two is
+also concurrent, there is another incongruity. For how can two bodies
+mutually connected, which are simultaneously distended, attract or
+draw anything from one another; or, being simultaneously contracted,
+receive anything from each other? And then, it seems impossible that
+one body can thus attract another body into itself, so as to become
+distended, seeing that to be distended is to be passive, unless, in the
+manner of a sponge, previously compressed by an external force, whilst
+it is returning to its natural state. But it is difficult to conceive
+that there can be anything of this kind in the arteries. The arteries
+dilate, because they are filled like bladders or leathern bottles; they
+are not filled because they expand like bellows. This I think easy
+of demonstration; and indeed conceive that I have already proved it.
+Nevertheless, in that book of Galen headed “Quod Sanguis continetur in
+Arteriis,” he quotes an experiment to prove the contrary: An artery
+having been exposed, is opened longitudinally, and a reed or other
+pervious tube, by which the blood is prevented from being lost, and the
+wound is closed, is inserted into the vessel through the opening. “So
+long,” he says, “as things are thus arranged, the whole artery will
+pulsate; but if you now throw a ligature about the vessel and tightly
+compress its tunics over the tube, you will no longer see the artery
+beating beyond the ligature.” I have never performed this experiment
+of Galen’s, nor do I think that it could very well be performed in the
+living body, on account of the profuse flow of blood that would take
+place from the vessel which was operated on; neither would the tube
+effectually close the wound in the vessel without a ligature; and I
+cannot doubt but that the blood would be found to flow out between the
+tube and the vessel. Still Galen appears by this experiment to prove
+both that the pulsative faculty extends from the heart by the walls of
+the arteries, and that the arteries, whilst they dilate, are filled
+by that pulsific force, because they expand like bellows, and do not
+dilate because they are filled like skins. But the contrary is obvious
+in arteriotomy and in wounds; for the blood spurting from the arteries
+escapes with force, now farther, now not so far, alternately, or in
+jets; and the jet always takes place with the diastole of the artery,
+never with the systole. By which it clearly appears that the artery is
+dilated by the impulse of the blood; for of itself it would not throw
+the blood to such a distance, and whilst it was dilating; it ought
+rather to draw air into its cavity through the wound, were those things
+true that are commonly stated concerning the uses of the arteries. Nor
+let the thickness of the arterial tunics impose upon us, and lead us
+to conclude that the pulsative property proceeds along them from the
+heart. For in several animals the arteries do not apparently differ
+from the veins; and in extreme parts of the body, where the arteries
+are minutely subdivided, as in the brain, the hand, &c., no one could
+distinguish the arteries from the veins by the dissimilar characters of
+their coats; the tunics of both are identical. And then, in an aneurism
+proceeding from a wounded or eroded artery, the pulsation is precisely
+the same as in the other arteries, and yet it has no proper arterial
+tunic. This the learned Riolanus testifies to, along with me, in his
+Seventh Book.
+
+Nor let any one imagine that the uses of the pulse and the respiration
+are the same, because under the influence of the same causes, such as
+running, anger, the warm bath, or any other heating thing, as Galen
+says, they become more frequent and forcible together. For, not only
+is experience in opposition to this idea, though Galen endeavours to
+explain it away, when we see that with excessive repletion the pulse
+beats more forcibly, whilst the respiration is diminished in amount;
+but in young persons the pulse is quick, whilst respiration is slow.
+So is it also in alarm, and amidst care, and under anxiety of mind;
+sometimes, too, in fevers, the pulse is rapid, but the respiration is
+slower than usual.
+
+These and other objections of the same kind may be urged against the
+opinions mentioned. Nor are the views that are entertained of the
+offices and pulse of the heart, perhaps, less bound up with great
+and most inextricable difficulties. The heart, it is vulgarly said,
+is the fountain and workshop of the vital spirits, the centre from
+whence life is dispensed to the several parts of the body; and yet
+it is denied that the right ventricle makes spirits; it is rather
+held to supply nourishment to the lungs; whence it is maintained that
+fishes are without any right ventricle (and indeed every animal wants
+a right ventricle which is unfurnished with lungs), and that the right
+ventricle is present solely for the sake of the lungs.
+
+1. Why, I ask, when we see that the structure of both ventricles is
+almost identical, there being the same apparatus of fibres, and
+braces, and valves, and vessels, and auricles, and in both the same
+infarction of blood, in the subjects of our dissections, of the like
+black colour, and coagulated--why, I say, should their uses be imagined
+to be different, when the action, motion, and pulse of both are the
+same? If the three tricuspid valves placed at the entrance into the
+right ventricle prove obstacles to the reflux of the blood into the
+vena cava, and if the three semilunar valves which are situated at the
+commencement of the pulmonary artery be there, that they may prevent
+the return of the blood into the ventricle; wherefore, when we find
+similar structures in connexion with the left ventricle, should we deny
+that they are there for the same end, of preventing here the egress,
+there the regurgitation of the blood?
+
+2. And again, when we see that these structures, in point of size,
+form, and situation, are almost in every respect the same in the left
+as in the right ventricle, wherefore should it be maintained that
+things are here arranged in connexion with the egress and regress of
+spirits, there, i.e. in the right, of blood? The same arrangement
+cannot be held fitted to favour or impede the motion of blood and of
+spirits indifferently.
+
+3. And when we observe that the passages and vessels are severally in
+relation to one another in point of size, viz., the pulmonary artery to
+the pulmonary veins; wherefore should the one be imagined destined to a
+private or particular purpose, that, to wit, of nourishing the lungs,
+the other to a public and general function?
+
+4. And, as Realdus Columbus says, how can it be conceived that such a
+quantity of blood should be required for the nutrition of the lungs;
+the vessel that leads to them, the vena arteriosa or pulmonary artery
+being of greater capacity than both the iliac veins?
+
+5. And I ask further: as the lungs are so close at hand, and in
+continual motion, and the vessel that supplies them is of such
+dimensions, what is the use or meaning of the pulse of the right
+ventricle? and why was nature reduced to the necessity of adding
+another ventricle for the sole purpose of nourishing the lungs?
+
+When it is said that the left ventricle obtains materials for the
+formation of spirits, air to wit, and blood, from the lungs and right
+sinuses of the heart, and in like manner sends spirituous blood into
+the aorta, drawing fuliginous vapours from thence, and sending them
+by the arteria venosa into the lungs, whence spirits are at the same
+time obtained for transmission into the aorta, I ask how, and by what
+means, is the separation effected? and how comes it that spirits and
+fuliginous vapours can pass hither and thither without admixture or
+confusion. If the mitral cuspidate valves do not prevent the egress of
+fuliginous vapours to the lungs, how should they oppose the escape of
+air? and how should the semilunars hinder the regress of spirits from
+the aorta upon each supervening diastole of the heart? and, above all,
+how can they say that the spirituous blood is sent from the arteria
+venalis (pulmonary veins) by the left ventricle into the lungs without
+any obstacle to its passage from the mitral valves, when they have
+previously asserted that the air entered by the same vessel from the
+lungs into the left ventricle, and have brought forward these same
+mitral valves as obstacles to its retrogression? Good God! how should
+the mitral valves prevent regurgitation of air and not of blood?
+
+Further, when they dedicate the vena arteriosa (or pulmonary artery), a
+vessel of great size, and having the tunics of an artery, to none but
+a kind of private and single purpose, that, namely, of nourishing the
+lungs, why should the arteria venalis (or pulmonary vein), which is
+scarcely of similar size, which has the coats of a vein, and is soft
+and lax, be presumed to be made for many--three or four, different
+uses? For they will have it that air passes through this vessel from
+the lungs into the left ventricle; that fuliginous vapours escape by
+it from the heart into the lungs; and that a portion of the spirituous
+or spiritualized blood is distributed by it to the lungs for their
+refreshment.
+
+If they will have it that fumes and air--fumes flowing from, air
+proceeding towards the heart--are transmitted by the same conduit, I
+reply, that nature is not wont to institute but one vessel, to contrive
+but one way for such contrary motions and purposes, nor is anything of
+the kind seen elsewhere.
+
+If fumes or fuliginous vapours and air permeate this vessel, as they do
+the pulmonary bronchia, wherefore do we find neither air nor fuliginous
+vapours when we divide the arteria venosa? why do we always find this
+vessel full of sluggish blood, never of air? whilst in the lungs we
+find abundance of air remaining.
+
+If any one will perform Galen’s experiment of dividing the trachea of
+a living dog, forcibly distending the lungs with a pair of bellows,
+and then tying the trachea securely, he will find, when he has laid
+open the thorax, abundance of air in the lungs, even to their extreme
+investing tunic, but none in either the pulmonary veins, or left
+ventricle of the heart. But did the heart either attract air from the
+lungs, or did the lungs transmit any air to the heart, in the living
+dog, by so much the more ought this to be the case in the experiment
+just referred to. Who, indeed, doubts that, did he inflate the lungs
+of a subject in the dissecting-room, he would instantly see the air
+making its way by this route, were there actually any such passage for
+it? But this office of the pulmonary veins, namely, the transference
+of air from the lungs to the heart, is held of such importance, that
+Hieronymus Fabricius, of Aquapendente, maintains the lungs were made
+for the sake of this vessel, and that it constitutes the principal
+element in their structure.
+
+But I should like to be informed wherefore, if the pulmonary vein
+were destined for the conveyance of air, it has the structure of a
+blood-vessel here. Nature had rather need of annular tubes, such as
+those of the bronchia, in order that they might always remain open, not
+have been liable to collapse; and that they might continue entirely
+free from blood, lest the liquid should interfere with the passage
+of the air, as it so obviously does when the lungs labour from being
+either greatly oppressed or loaded in a less degree with phlegm, as
+they are when the breathing is performed with a sibilous or rattling
+noise.
+
+Still less is that opinion to be tolerated which (as a twofold matter,
+one aëreal, one sanguineous, is required for the composition of vital
+spirits,) supposes the blood to ooze through the septum of the heart
+from the right to the left ventricle by certain secret pores, and
+the air to be attracted from the lungs through the great vessel, the
+pulmonary vein; and which will have it, consequently, that there are
+numerous pores in the septum cordis adapted for the transmission of
+the blood. But, in faith, no such pores can be demonstrated, neither
+in fact do any such exist. For the septum of the heart is of a denser
+and more compact structure than any portion of the body, except the
+bones and sinews. But even supposing that there were foramina or pores
+in this situation, how could one of the ventricles extract anything
+from the other--the left, e.g., obtain blood from the right, when we
+see that both ventricles contract and dilate simultaneously? Wherefore
+should we not rather believe that the right took spirits from the left,
+than that the left obtained blood from the right ventricle, through
+these foramina? But it is certainly mysterious and incongruous that
+blood should be supposed to be most commodiously drawn through a set of
+obscure or invisible pores, and air through perfectly open passages,
+at one and the same moment. And why, I ask, is recourse had to secret
+and invisible porosities, to uncertain and obscure channels, to explain
+the passage of the blood into the left ventricle, when there is so
+open a way through the pulmonary veins? I own it has always appeared
+extraordinary to me that they should have chosen to make, or rather to
+imagine, a way through the thick, hard, and extremely compact substance
+of the septum cordis, rather than to take that by the open vas
+venosum or pulmonary vein, or even through the lax, soft, and spongy
+substance of the lungs at large. Besides, if the blood could permeate
+the substance of the septum, or could be imbibed from the ventricles,
+what use were there for the coronary artery and vein, branches of
+which proceed to the septum itself, to supply it with nourishment? And
+what is especially worthy of notice is this: if in the fœtus, where
+everything is more lax and soft, nature saw herself reduced to the
+necessity of bringing the blood from the right into the left side of
+the heart by the foramen ovale, from the vena cava through the arteria
+venosa, how should it be likely that in the adult she should pass it so
+commodiously, and without an effort, through the septum ventriculorum,
+which has now become denser by age?
+
+Andreas Laurentius,[18] resting on the authority of Galen[19] and the
+experience of Hollerius, asserts and proves that the serum and pus in
+empyema, absorbed from the cavities of the chest into the pulmonary
+vein, may be expelled and got rid of with the urine and fæces through
+the left ventricle of the heart and arteries. He quotes the case of
+a certain person affected with melancholia, and who suffered from
+repeated fainting fits, who was relieved from the paroxysms on passing
+a quantity of turbid, fetid, and acrid urine; but he died at last, worn
+out by the disease; and when the body came to be opened after death, no
+fluid like that he had micturated was discovered either in the bladder
+or in the kidneys; but in the left ventricle of the heart and cavity
+of the thorax plenty of it was met with; and then Laurentius boasts
+that he had predicted the cause of the symptoms. For my own part,
+however, I cannot but wonder, since he had divined and predicted that
+heterogeneous matter could be discharged by the course he indicates,
+why he could not or would not perceive, and inform us that, in the
+natural state of things, the blood might be commodiously transferred
+from the lungs to the left ventricle of the heart by the very same
+route.
+
+  [18] Lib. ix, cap. xi, quest. 12.
+
+  [19] De Locis Affectis., lib. vi, cap. 7.
+
+Since, therefore, from the foregoing considerations and many others
+to the same effect, it is plain that what has heretofore been said
+concerning the motion and function of the heart and arteries must
+appear obscure, or inconsistent or even impossible to him who carefully
+considers the entire subject; it will be proper to look more narrowly
+into the matter; to contemplate the motion of the heart and arteries,
+not only in man, but in all animals that have hearts; and further, by
+frequent appeals to vivisection, and constant ocular inspection, to
+investigate and endeavour to find the truth.
+
+
+
+
+CHAPTER I
+
+THE AUTHOR’S MOTIVES FOR WRITING
+
+
+When I first gave my mind to vivisections, as a means of discovering
+the motions and uses of the heart, and sought to discover these from
+actual inspection, and not from the writings of others, I found the
+task so truly arduous, so full of difficulties, that I was almost
+tempted to think, with Fracastorius, that the motion of the heart was
+only to be comprehended by God. For I could neither rightly perceive at
+first when the systole and when the diastole took place, nor when and
+where dilatation and contraction occurred, by reason of the rapidity of
+the motion, which in many animals is accomplished in the twinkling of
+an eye, coming and going like a flash of lightning; so that the systole
+presented itself to me now from this point, now from that; the diastole
+the same; and then everything was reversed, the motions occurring, as
+it seemed, variously and confusedly together. My mind was therefore
+greatly unsettled, nor did I know what I should myself conclude, nor
+what believe from others; I was not surprised that Andreas Laurentius
+should have said that the motion of the heart was as perplexing as the
+flux and reflux of Euripus had appeared to Aristotle.
+
+At length, and by using greater and daily diligence, having frequent
+recourse to vivisections, employing a variety of animals for the
+purpose, and collating numerous observations, I thought that I had
+attained to the truth, that I should extricate myself and escape from
+this labyrinth, and that I had discovered what I so much desired, both
+the motion and the use of the heart and arteries; since which time I
+have not hesitated to expose my views upon these subjects, not only in
+private to my friends, but also in public, in my anatomical lectures,
+after the manner of the Academy of old.
+
+These views, as usual, pleased some more, others less; some chid and
+calumniated me, and laid it to me as a crime that I had dared to
+depart from the precepts and opinion of all anatomists; others desired
+further explanations of the novelties, which they said were both worthy
+of consideration, and might perchance be found of signal use. At
+length, yielding to the requests of my friends, that all might be made
+participators in my labours, and partly moved by the envy of others,
+who receiving my views with uncandid minds and understanding them
+indifferently, have essayed to traduce me publicly, I have been moved
+to commit these things to the press, in order that all may be enabled
+to form an opinion both of me and my labours. This step I take all
+the more willingly, seeing that Hieronymus Fabricius of Aquapendente,
+although he has accurately and learnedly delineated almost every one
+of the several parts of animals in a special work, has left the heart
+alone untouched. Finally, if any use or benefit to this department
+of the republic of letters should accrue from my labours, it will,
+perhaps, be allowed that I have not lived idly, and, as the old man in
+the comedy says:
+
+  For never yet has any one attained
+  To such perfection, but that time, and place,
+  And use, have brought addition to his knowledge;
+  Or made correction, or admonished him,
+  That he was ignorant of much which he
+  Had thought he knew; or led him to reject
+  What he had once esteemed of highest price.
+
+So will it, perchance, be found with reference to the heart at this
+time; or others, at least, starting from hence, the way pointed out
+to them, advancing under the guidance of a happier genius, may make
+occasion to proceed more fortunately, and to inquire more accurately.
+
+
+
+
+CHAPTER II
+
+OF THE MOTIONS OF THE HEART, AS SEEN IN THE DISSECTION OF LIVING ANIMALS
+
+
+In the first place, then, when the chest of a living animal is laid
+open and the capsule that immediately surrounds the heart is slit up or
+removed, the organ is seen now to move, now to be at rest;--there is a
+time when it moves, and a time when it is motionless.
+
+These things are more obvious in the colder animals, such as toads,
+frogs, serpents, small fishes, crabs, shrimps, snails, and shell-fish.
+They also become more distinct in warm-blooded animals, such as the dog
+and hog, if they be attentively noted when the heart begins to flag, to
+move more slowly, and, as it were, to die: the movements then become
+slower and rarer, the pauses longer, by which it is made much more
+easy to perceive and unravel what the motions really are, and how they
+are performed. In the pause, as in death, the heart is soft, flaccid,
+exhausted, lying, as it were, at rest.
+
+In the motion, and interval in which this is accomplished, three
+principal circumstances are to be noted:
+
+1. That the heart is erected, and rises upwards to a point, so that
+at this time it strikes against the breast and the pulse is felt
+externally.
+
+2. That it is everywhere contracted, but more especially towards
+the sides, so that it looks narrower, relatively longer, more drawn
+together. The heart of an eel taken out of the body of the animal and
+placed upon the table or the hand, shows these particulars; but the
+same things are manifest in the heart of small fishes and of those
+colder animals where the organ is more conical or elongated.
+
+3. The heart being grasped in the hand, is felt to become harder during
+its action. Now this hardness proceeds from tension, precisely as when
+the forearm is grasped, its tendons are perceived to become tense and
+resilient when the fingers are moved.
+
+4. It may further be observed in fishes, and the colder blooded
+animals, such as frogs, serpents, &c., that the heart, when it moves,
+becomes of a paler colour, when quiescent of a deeper blood-red colour.
+
+From these particulars it appeared evident to me that the motion of
+the heart consists in a certain universal tension--both contraction in
+the line of its fibres, and constriction in every sense. It becomes
+erect, hard, and of diminished size during its action; the motion is
+plainly of the same nature as that of the muscles when they contract in
+the line of their sinews and fibres; for the muscles, when in action,
+acquire vigour and tenseness, and from soft become hard, prominent, and
+thickened: in the same manner the heart.
+
+We are therefore authorized to conclude that the heart, at the moment
+of its action, is at once constricted on all sides, rendered thicker in
+its parietes and smaller in its ventricles, and so made apt to project
+or expel its charge of blood. This, indeed, is made sufficiently
+manifest by the fourth observation preceding, in which we have seen
+that the heart, by squeezing out the blood it contains becomes paler,
+and then when it sinks into repose and the ventricle is filled anew
+with blood, that the deeper crimson colour returns. But no one need
+remain in doubt of the fact, for if the ventricle be pierced the blood
+will be seen to be forcibly projected outwards upon each motion or
+pulsation when the heart is tense.
+
+These things, therefore, happen together or at the same instant: the
+tension of the heart, the pulse of its apex, which is felt externally
+by its striking against the chest, the thickening of its parietes, and
+the forcible expulsion of the blood it contains by the constriction of
+its ventricles.
+
+Hence the very opposite of the opinions commonly received, appears
+to be true; inasmuch as it is generally believed that when the heart
+strikes the breast and the pulse is felt without, the heart is dilated
+in its ventricles and is filled with blood; but the contrary of this is
+the fact, and the heart, when it contracts [and the shock is given], is
+emptied. Whence the motion which is generally regarded as the diastole
+of the heart, is in truth its systole. And in like manner the intrinsic
+motion of the heart is not the diastole but the systole; neither is
+it in the diastole that the heart grows firm and tense, but in the
+systole, for then only, when tense, is it moved and made vigorous.
+
+Neither is it by any means to be allowed that the heart only moves
+in the line of its straight fibres, although the great Vesalius,
+giving this notion countenance, quotes a bundle of osiers bound into a
+pyramidal heap in illustration; meaning, that as the apex is approached
+to the base, so are the sides made to bulge out in the fashion of
+arches, the cavities to dilate, the ventricles to acquire the form of a
+cupping-glass and so to suck in the blood. But the true effect of every
+one of its fibres is to constringe the heart at the same time that
+they render it tense; and this rather with the effect of thickening
+and amplifying the walls and substance of the organ than enlarging its
+ventricles. And, again, as the fibres run from the apex to the base,
+and draw the apex towards the base, they do not tend to make the walls
+of the heart bulge out in circles, but rather the contrary; inasmuch
+as every fibre that is circularly disposed, tends to become straight
+when it contracts; and is distended laterally and thickened, as in the
+case of muscular fibres in general, when they contract, that is, when
+they are shortened longitudinally, as we see them in the bellies of
+the muscles of the body at large. To all this, let it be added, that
+not only are the ventricles contracted in virtue of the direction
+and condensation of their walls, but farther, that those fibres, or
+bands, styled nerves by Aristotle, which are so conspicuous in the
+ventricles of the larger animals, and contain all the straight fibres,
+(the parietes of the heart containing only circular ones,) when they
+contract simultaneously, by an admirable adjustment all the internal
+surfaces are drawn together, as if with cords, and so is the charge of
+blood expelled with force.
+
+Neither is it true, as vulgarly believed, that the heart by any
+dilatation or motion of its own has the power of drawing the blood
+into the ventricles; for when it acts and becomes tense, the blood is
+expelled; when it relaxes and sinks together it receives the blood in
+the manner and wise which will by and by be explained.
+
+
+
+
+CHAPTER III
+
+OF THE MOTIONS OF ARTERIES, AS SEEN IN THE DISSECTION OF LIVING ANIMALS
+
+
+In connection with the motions of the heart these things are further to
+be observed having reference to the motions and pulses of the arteries:
+
+1. At the moment the heart contracts, and when the breast is struck,
+when in short the organ is in its state of systole, the arteries are
+dilated, yield a pulse, and are in the state of diastole. In like
+manner, when the right ventricle contracts and propels its charge of
+blood, the arterial vein [the pulmonary artery] is distended at the
+same time with the other arteries of the body.
+
+2. When the left ventricle ceases to act, to contract, to pulsate,
+the pulse in the arteries also ceases; further, when this ventricle
+contracts languidly, the pulse in the arteries is scarcely perceptible.
+In like manner, the pulse in the right ventricle failing, the pulse in
+the vena arteriosa [pulmonary artery] ceases also.
+
+3. Further, when an artery is divided or punctured, the blood is
+seen to be forcibly propelled from the wound at the moment the left
+ventricle contracts; and, again, when the pulmonary artery is wounded,
+the blood will be seen spouting forth with violence at the instant when
+the right ventricle contracts.
+
+So also in fishes, if the vessel which leads from the heart to the
+gills be divided, at the moment when the heart becomes tense and
+contracted, at the same moment does the blood flow with force from the
+divided vessel.
+
+In the same way, finally, when we see the blood in arteriotomy
+projected now to a greater, now to a less distance, and that the
+greater jet corresponds to the diastole of the artery and to the time
+when the heart contracts and strikes the ribs, and is in its state of
+systole, we understand that the blood is expelled by the same movement.
+
+From these facts it is manifest, in opposition to commonly received
+opinions, that the diastole of the arteries corresponds with the time
+of the heart’s systole; and that the arteries are filled and distended
+by the blood forced into them by the contraction of the ventricles; the
+arteries, therefore, are distended, because they are filled like sacs
+or bladders, and are not filled because they expand like bellows. It is
+in virtue of one and the same cause, therefore, that all the arteries
+of the body pulsate, viz. the contraction of the left ventricle; in the
+same way as the pulmonary artery pulsates by the contraction of the
+right ventricle.
+
+Finally, that the pulses of the arteries are due to the impulses of the
+blood from the left ventricle, may be illustrated by blowing into a
+glove, when the whole of the fingers will be found to become distended
+at one and the same time, and in their tension to bear some resemblance
+to the pulse. For in the ratio of the tension is the pulse of the
+heart, fuller, stronger, more frequent as that acts more vigorously,
+still preserving the rhythm and volume and order of the heart’s
+contractions. Nor is it to be expected that because of the motion of
+the blood, the time at which the contraction of the heart takes place,
+and that at which the pulse in an artery (especially a distant one)
+is felt, shall be otherwise than simultaneous: it is here the same
+as in blowing up a glove or bladder; for in a plenum (as in a drum,
+a long piece of timber, &c.) the stroke and the motion occur at both
+extremities at the same time. Aristotle,[20] too, has said, “the blood
+of all animals palpitates within their veins, (meaning the arteries,)
+and by the pulse is sent everywhere simultaneously.” And further,[21]
+“thus do all the veins pulsate together and by successive strokes,
+because they all depend upon the heart; and, as it is always in
+motion, so are they likewise always moving together, but by successive
+movements.” It is well to observe with Galen, in this place, that the
+old philosophers called the arteries veins.
+
+  [20] De Animal. iii, cap. 9.
+
+  [21] De Respirat. cap. 20.
+
+I happened upon one occasion to have a particular case under my care,
+which plainly satisfied me of this truth: A certain person was affected
+with a large pulsating tumour on the right side of the neck, called an
+aneurism, just at that part where the artery descends into the axilla,
+produced by an erosion of the artery itself, and daily increasing in
+size; this tumour was visibly distended as it received the charge of
+blood brought to it by the artery, with each stroke of the heart: the
+connexion of parts was obvious when the body of the patient came to be
+opened after his death. The pulse in the corresponding arm was small,
+in consequence of the greater portion of the blood being diverted into
+the tumour and so intercepted.
+
+Whence it appears that wherever the motion of the blood through the
+arteries is impeded, whether it be by compression or infarction, or
+interception, there do the remote divisions of the arteries beat less
+forcibly, seeing that the pulse of the arteries is nothing more than
+the impulse or shock of the blood in these vessels.
+
+
+
+
+CHAPTER IV
+
+OF THE MOTION OF THE HEART AND ITS AURICLES, AS SEEN IN THE BODIES OF
+LIVING ANIMALS
+
+
+Besides the motions already spoken of, we have still to consider those
+that appertain to the auricles.
+
+Casper Bauhin and John Riolan,[22] most learned men and skilful
+anatomists, inform us from their observations, that if we carefully
+watch the movements of the heart in the vivisection of an animal, we
+shall perceive four motions distinct in time and in place, two of which
+are proper to the auricles, two to the ventricles. With all deference
+to such authority I say, that there are four motions distinct in point
+of place, but not of time; for the two auricles move together, and so
+also do the two ventricles, in such wise that though the places be
+four, the times are only two. And this occurs in the following manner:
+
+  [22] Bauhin, lib. ii, cap. 21. Riolan, lib. viii, cap. 1.
+
+There are, as it were, two motions going on together: one of the
+auricles, another of the ventricles; these by no means taking place
+simultaneously, but the motion of the auricles preceding, that of the
+heart itself following; the motion appearing to begin from the auricles
+and to extend to the ventricles. When all things are becoming languid,
+and the heart is dying, as also in fishes and the colder blooded
+animals, there is a short pause between these two motions, so that the
+heart aroused, as it were, appears to respond to the motion, now more
+quickly, now more tardily; and at length, and when near to death, it
+ceases to respond by its proper motion, but seems, as it were, to nod
+the head, and is so obscurely moved that it appears rather to give
+signs of motion to the pulsating auricle, than actually to move. The
+heart, therefore, ceases to pulsate sooner than the auricles, so that
+the auricles have been said to outlive it, the left ventricle ceasing
+to pulsate first of all; then its auricle, next the right ventricle;
+and, finally, all the other parts being at rest and dead, as Galen
+long since observed, the right auricle still continues to beat; life,
+therefore, appears to linger longest in the right auricle. Whilst the
+heart is gradually dying, it is sometimes seen to reply, after two or
+three contractions of the auricles, roused as it were to action, and
+making a single pulsation, slowly, unwillingly, and with an effort.
+
+But this especially is to be noted, that after the heart has ceased
+to beat, the auricles however still contracting, a finger placed upon
+the ventricles perceives the several pulsations of the auricles,
+precisely in the same way and for the same reason, as we have said,
+that the pulses of the ventricles are felt in the arteries, to wit,
+the distension produced by the jet of blood. And if at this time, the
+auricles alone pulsating, the point of the heart be cut off with a
+pair of scissors, you will perceive the blood flowing out upon each
+contraction of the auricles. Whence it is manifest how the blood enters
+the ventricles, not by any attraction or dilatation of the heart, but
+thrown into them by the pulses of the auricles.
+
+And here I would observe, that whenever I speak of pulsations as
+occurring in the auricles or ventricles, I mean contractions: first
+the auricles _contract_, and then and subsequently the heart itself
+_contracts_. When the auricles contract they are seen to become whiter,
+especially where they contain but little blood; but they are filled as
+magazines or reservoirs of the blood, which is tending spontaneously
+and, by the motion of the veins, under pressure towards the centre;
+the whiteness indicated is most conspicuous towards the extremities or
+edges of the auricles at the time of their contractions.
+
+In fishes and frogs, and other animals which have hearts with but
+a single ventricle, and for an auricle have a kind of bladder much
+distended with blood, at the base of the organ, you may very plainly
+perceive this bladder contracting first, and the contraction of the
+heart or ventricle following afterwards.
+
+But I think it right to describe what I have observed of an opposite
+character: the heart of an eel, of several fishes, and even of some [of
+the higher] animals taken out of the body, beats without auricles; nay,
+if it be cut in pieces the several parts may still be seen contracting
+and relaxing; so that in these creatures the body of the heart may be
+seen pulsating, palpitating, after the cessation of all motion in the
+auricle. But is not this perchance peculiar to animals more tenacious
+of life, whose radical moisture is more glutinous, or fat and sluggish,
+and less readily soluble? The same faculty indeed appears in the flesh
+of eels, generally, which even when skinned and embowelled, and cut
+into pieces, are still seen to move.
+
+Experimenting with a pigeon upon one occasion, after the heart had
+wholly ceased to pulsate, and the auricles too had become motionless,
+I kept my finger wetted with saliva and warm for a short time upon the
+heart, and observed, that under the influence of this fomentation it
+recovered new strength and life, so that both ventricles and auricles
+pulsated, contracting and relaxing alternately, recalled as it were
+from death to life.
+
+Besides this, however, I have occasionally observed, after the heart
+and even its right auricle had ceased pulsating,--when it was in
+articulo mortis in short,--that an obscure motion, an undulation or
+palpitation, remained in the blood itself, which was contained in the
+right auricle, this being apparent so long as it was imbued with heat
+and spirit. And indeed a circumstance of the same kind is extremely
+manifest in the course of the generation of animals, as may be seen in
+the course of the first seven days of the incubation of the chick: A
+drop of blood makes its appearance which palpitates, as Aristotle had
+already observed; from this, when the growth is further advanced and
+the chick is fashioned, the auricles of the heart are formed, which
+pulsating henceforth give constant signs of life. When at length, and
+after the lapse of a few days, the outline of the body begins to be
+distinguished, then is the ventricular part of the heart also produced;
+but it continues for a time white and apparently bloodless, like the
+rest of the animal; neither does it pulsate or give signs of motion. I
+have seen a similar condition of the heart in the human foetus about
+the beginning of the third month, the heart being then whitish and
+bloodless, although its auricles contained a considerable quantity of
+purple blood. In the same way in the egg, when the chick was formed and
+had increased in size, the heart too increased and acquired ventricles,
+which then began to receive and to transmit blood.
+
+And this leads me to remark, that he who inquires very particularly
+into this matter will not conclude that the heart, as a whole, is
+the primum vivens, ultimum moriens--the first part to live, the last
+to die, but rather its auricles, or the part which corresponds to
+the auricles in serpents, fishes, &c., which both lives before the
+heart[23] and dies after it.
+
+  [23] [The reader will observe that Harvey, when he speaks of the
+  _heart_, always means the ventricles or ventricular portion of the
+  organ.]
+
+Nay, has not the blood itself or spirit an obscure palpitation inherent
+in it, which it has even appeared to me to retain after death? and it
+seems very questionable whether or not we are to say that life begins
+with the palpitation or beating of the heart. The seminal fluid of
+all animals--the prolific spirit, as Aristotle observed, leaves their
+body with a bound and like a living thing; and nature in death, as
+Aristotle[24] further remarks, retracing her steps, reverts to whence
+she had set out, returns at the end of her course to the goal whence
+she had started; and as animal generation proceeds from that which is
+not animal, entity from non-entity, so, by a retrograde course, entity,
+by corruption, is resolved into non-entity; whence that in animals,
+which was last created, fails first; and that which was first, fails
+last.
+
+  [24] De Motu Animal. cap. 8.
+
+I have also observed, that almost all animals have truly a heart, not
+the larger creatures only, and those that have red blood, but the
+smaller, and [seemingly] bloodless ones also, such as slugs, snails,
+scallops, shrimps, crabs, crayfish, and many others; nay, even in
+wasps, hornets, and flies, I have, with the aid of a magnifying glass,
+and at the upper part of what is called the tail, both seen the heart
+pulsating myself, and shown it to many others.
+
+But in the exsanguine tribes the heart pulsates sluggishly and
+deliberately, contracting slowly as in animals that are moribund, a
+fact that may readily be seen in the snail, whose heart will be found
+at the bottom of that orifice in the right side of the body which is
+seen to be opened and shut in the course of respiration, and whence
+saliva is discharged, the incision being made in the upper aspect of
+the body, near the part which corresponds to the liver.
+
+This, however, is to be observed: that in winter and the colder season,
+exsanguine animals, such as the snail, show no pulsations; they seem
+rather to live after the manner of vegetables, or of those other
+productions which are therefore designated plant-animals.
+
+It is also to be noted that all animals which have a heart, have
+also auricles, or something analogous to auricles; and further, that
+wherever the heart has a double ventricle there are always two auricles
+present, but not otherwise. If you turn to the production of the
+chick in ovo, however, you will find at first no more than a vesicle
+or auricle, or pulsating drop of blood; it is only by and by, when the
+development has made some progress, that the heart is fashioned: even
+so in certain animals not destined to attain to the highest perfection
+in their organization, such as bees, wasps, snails, shrimps, crayfish,
+&c., we only find a certain pulsating vesicle, like a sort of red or
+white palpitating point, as the beginning or principle of their life.
+
+We have a small shrimp in these countries, which is taken in the Thames
+and in the sea, the whole of whose body is transparent; this creature,
+placed in a little water, has frequently afforded myself and particular
+friends an opportunity of observing the motions of the heart with the
+greatest distinctness, the external parts of the body presenting no
+obstacle to our view, but the heart being perceived as though it had
+been seen through a window.
+
+I have also observed the first rudiments of the chick in the course of
+the fourth or fifth day of the incubation, in the guise of a little
+cloud, the shell having been removed and the egg immersed in clear
+tepid water. In the midst of the cloudlet in question there was a
+bloody point so small that it disappeared during the contraction and
+escaped the sight, but in the relaxation it reappeared again, red and
+like the point of a pin; so that betwixt the visible and invisible,
+betwixt being and not being, as it were, it gave by its pulses a kind
+of representation of the commencement of life.[25]
+
+  [25] [At the period Harvey indicates, a rudimentary auricle and
+  ventricle exist, but are so transparent that unless with certain
+  precautions their parietes cannot be seen. The filling and emptying
+  of them, therefore, give the appearance of a speck of blood
+  alternately appearing and disappearing.]
+
+
+
+
+CHAPTER V
+
+OF THE MOTION, ACTION, AND OFFICE OF THE HEART
+
+
+From these and other observations of the like kind, I am persuaded it
+will be found that the motion of the heart is as follows:
+
+First of all, the auricle contracts, and in the course of its
+contraction throws the blood, (which it contains in ample quantity
+as the head of the veins, the storehouse, and cistern of the blood,)
+into the ventricle, which, being filled, the heart raises itself
+straightway, makes all its fibres tense, contracts the ventricles, and
+performs a beat, by which beat it immediately sends the blood supplied
+to it by the auricle into the arteries; the right ventricle sending its
+charge into the lungs by the vessel which is called vena arteriosa, but
+which, in structure and function, and all things else, is an artery;
+the left ventricle sending its charge into the aorta, and through this
+by the arteries to the body at large.
+
+These two motions, one of the ventricles, another of the auricles,
+take place consecutively, but in such a manner that there is a kind
+of harmony or rhythm preserved between them, the two concurring in
+such wise that but one motion is apparent, especially in the warmer
+blooded animals, in which the movements in question are rapid. Nor
+is this for any other reason than it is in a piece of machinery, in
+which, though one wheel gives motion to another, yet all the wheels
+seem to move simultaneously; or in that mechanical contrivance which
+is adapted to firearms, where the trigger being touched, down comes
+the flint, strikes against the steel, elicits a spark, which falling
+among the powder, it is ignited, upon which the flame extends, enters
+the barrel, causes the explosion, propels the ball, and the mark is
+attained--all of which incidents, by reason of the celerity with which
+they happen, seem to take place in the twinkling of an eye. So also
+in deglutition: by the elevation of the root of the tongue, and the
+compression of the mouth, the food or drink is pushed into the fauces,
+the larynx is closed by its own muscles, and the epiglottis, whilst the
+pharynx, raised and opened by its muscles no otherwise than is a sac
+that is to be filled, is lifted up, and its mouth dilated; upon which,
+the mouthful being received, it is forced downwards by the transverse
+muscles, and then carried farther by the longitudinal ones. Yet are
+all these motions, though executed by different and distinct organs,
+performed harmoniously, and in such order, that they seem to constitute
+but a single motion and act, which we call deglutition.
+
+Even so does it come to pass with the motions and action of the heart,
+which constitute a kind of deglutition, a transfusion of the blood
+from the veins to the arteries. And if any one, bearing these things
+in mind, will carefully watch the motions of the heart in the body of
+a living animal, he will perceive not only all the particulars I have
+mentioned, viz. the heart becoming erect, and making one continuous
+motion with its auricles; but farther, a certain obscure undulation
+and lateral inclination in the direction of the axis of the right
+ventricle, [the organ] twisting itself slightly in performing its work.
+And indeed every one may see, when a horse drinks, that the water is
+drawn in and transmitted to the stomach at each movement of the throat,
+the motion being accompanied with a sound, and yielding a pulse both
+to the ear and the touch; in the same way it is with each motion of
+the heart, when there is the delivery of a quantity of blood from
+the veins to the arteries, that a pulse takes place, and can be heard
+within the chest.
+
+The motion of the heart, then, is entirely of this description, and
+the one action of the heart is the transmission of the blood and its
+distribution, by means of the arteries, to the very extremities of the
+body; so that the pulse which we feel in the arteries is nothing more
+than the impulse of the blood derived from the heart.
+
+Whether or not the heart, besides propelling the blood, giving it
+motion locally, and distributing it to the body, adds anything else
+to it,--heat, spirit, perfection,--must be inquired into by and by,
+and decided upon other grounds. So much may suffice at this time, when
+it is shown that by the action of the heart the blood is transfused
+through the ventricles from the veins to the arteries, and distributed
+by them to all parts of the body.
+
+So much, indeed, is admitted by all [physiologists], both from the
+structure of the heart and the arrangement and action of its valves.
+But still they are like persons purblind or groping about in the dark;
+and then they give utterence to diverse, contradictory, and incoherent
+sentiments, delivering many things upon conjecture, as we have already
+had occasion to remark.
+
+The grand cause of hesitation and error in this subject appears to
+me to have been the intimate connection between the heart and the
+lungs. When men saw both the vena arteriosa [or pulmonary artery]
+and the arteriæ venosæ [or pulmonary veins] losing themselves in the
+lungs, of course it became a puzzle to them to know how or by what
+means the right ventricle should distribute the blood to the body, or
+the left draw it from the venæ cavæ. This fact is born witness to by
+Galen, whose words, when writing against Erasistratus in regard to
+the origin and use of the veins and the coction of the blood, are the
+following:[26] “You will reply,” he says, “that the effect is so;
+that the blood is prepared in the liver, and is thence transferred to
+the heart to receive its proper form and last perfection; a statement
+which does not appear devoid of reason; for no great and perfect work
+is ever accomplished at a single effort, or receives its final polish
+from one instrument. But if this be actually so, then show us another
+vessel which draws the absolutely perfect blood from the heart, and
+distributes it as the arteries do the spirits over the whole body.”
+Here then is a reasonable opinion not allowed, because, forsooth,
+besides not seeing the true means of transit, he could not discover the
+vessel which should transmit the blood from the heart to the body at
+large!
+
+  [26] De Placitis Hippocratis et Platonis, vi.
+
+But had any one been there in behalf of Erasistratus, and of that
+opinion which we now espouse, and which Galen himself acknowledges in
+other respects consonant with reason, to have pointed to the aorta
+as the vessel which distributes the blood from the heart to the rest
+of the body, I wonder what would have been the answer of that most
+ingenious and learned man? Had he said that the artery transmits
+spirits and not blood, he would indeed sufficiently have answered
+Erasistratus, who imagined that the arteries contained nothing but
+spirits; but then he would have contradicted himself, and given a
+foul denial to that for which he had keenly contended in his writings
+against this very Erasistratus, to wit, that blood in substance
+is contained in the arteries, and not spirits; a fact which he
+demonstrated not only by many powerful arguments, but by experiments.
+
+But if the divine Galen will here allow, as in other places he does,
+“that all the arteries of the body arise from the great artery, and
+that this takes its origin from the heart; that all these vessels
+naturally contain and carry blood; that the three semilunar valves
+situated at the orifice of the aorta prevent the return of the blood
+into the heart, and that nature never connected them with this, the
+most noble viscus of the body, unless for some most important end;”
+if, I say, this father of physic admits all these things,--and I quote
+his own words,--I do not see how he can deny that the great artery is
+the very vessel to carry the blood, when it has attained its highest
+term of perfection, from the heart for distribution to all parts of
+the body. Or would he perchance still hesitate, like all who have
+come after him, even to the present hour, because he did not perceive
+the route by which the blood was transferred from the veins to the
+arteries, in consequence, as I have already said, of the intimate
+connexion between the heart and the lungs? And that this difficulty
+puzzled anatomists not a little, when in their dissections they found
+the pulmonary artery and left ventricle full of thick, black, and
+clotted blood, plainly appears, when they felt themselves compelled
+to affirm that the blood made its way from the right to the left
+ventricle by sweating through the septum of the heart. But this I fancy
+I have already refuted. A new pathway for the blood must therefore be
+prepared and thrown open, and being once exposed, no further difficulty
+will, I believe, be experienced by any one in admitting what I have
+already proposed in regard to the pulse of the heart and arteries,
+viz. the passage of the blood from the veins to the arteries, and its
+distribution to the whole of the body by means of these vessels.
+
+
+
+
+CHAPTER VI
+
+OF THE COURSE BY WHICH THE BLOOD IS CARRIED FROM THE VENA CAVA INTO
+THE ARTERIES, OR FROM THE RIGHT INTO THE LEFT VENTRICLE OF THE HEART
+
+
+Since the intimate connexion of the heart with the lungs, which
+is apparent in the human subject, has been the probable cause of
+the errors that have been committed on this point, they plainly do
+amiss who, pretending to speak of the parts of animals generally, as
+anatomists for the most part do, confine their researches to the human
+body alone, and that when it is dead. They obviously act no otherwise
+than he who, having studied the forms of a single commonwealth, should
+set about the composition of a general system of polity; or who, having
+taken cognizance of the nature of a single field, should imagine that
+he had mastered the science of agriculture; or who, upon the ground of
+one particular proposition, should proceed to draw general conclusions.
+
+Had anatomists only been as conversant with the dissection of the lower
+animals as they are with that of the human body, the matters that have
+hitherto kept them in a perplexity of doubt would, in my opinion, have
+met them freed from every kind of difficulty.
+
+And, first, in fishes, in which the heart consists of but a single
+ventricle, they having no lungs, the thing is sufficiently manifest.
+Here the sac, which is situated at the base of the heart, and is the
+part analogous to the auricle in man, plainly throws the blood into the
+heart, and the heart, in its turn, conspicuously transmits it by a
+pipe or artery, or vessel analogous to an artery; these are facts which
+are confirmed by simple ocular inspection, as well as by a division of
+the vessel, when the blood is seen to be projected by each pulsation of
+the heart.
+
+The same thing is also not difficult of demonstration in those animals
+that have either no more, or, as it were, no more than a single
+ventricle to the heart, such as toads, frogs, serpents, and lizards,
+which, although they have lungs in a certain sense, as they have a
+voice, (and I have many observations by me on the admirable structure
+of the lungs of these animals, and matters appertaining, which,
+however, I cannot introduce in this place,) still their anatomy plainly
+shows that the blood is transferred in them from the veins to the
+arteries in the same manner as in higher animals, viz. by the action
+of the heart; the way, in fact, is patent, open, manifest; there is no
+difficulty, no room for hesitating about it; for in them the matter
+stands precisely as it would in man, were the septum of his heart
+perforated or removed, or one ventricle made out of two; and this being
+the case, I imagine that no one will doubt as to the way by which the
+blood may pass from the veins into the arteries.
+
+But as there are actually more animals which have no lungs than there
+are which be furnished with them, and in like manner a greater number
+which have only one ventricle than there are which have two, it is
+open to us to conclude, judging from the mass or multitude of living
+creatures, that for the major part, and generally, there is an open way
+by which the blood is transmitted from the veins through the sinuses or
+cavities of the heart into the arteries.
+
+I have, however, cogitating with myself, seen further, that the same
+thing obtained most obviously in the embryos of those animals that
+have lungs; for in the fœtus the four vessels belonging to the heart,
+viz. the vena cava, the vena arteriosa or pulmonary artery, the
+arteria venalis or pulmonary vein, and the arteria magna or aorta,
+are all connected otherwise than in the adult; a fact sufficiently
+known to every anatomist. The first contact and union of the vena cava
+with the arteria venosa or pulmonary veins, which occurs before the
+cava opens properly into the right ventricle of the heart, or gives
+off the coronary vein, a little above its escape from the liver, is
+by a lateral anastomosis; this is an ample foramen, of an oval form,
+communicating between the cava and the arteria venosa, or pulmonary
+vein, so that the blood is free to flow in the greatest abundance by
+that foramen from the vena cava into the arteria venosa or pulmonary
+vein, and left auricle, and from thence into the left ventricle; and
+farther, in this foramen ovale, from that part which regards the
+arteria venosa, or pulmonary vein, there is a thin tough membrane,
+larger than the opening, extended like an operculum or cover; this
+membrane in the adult blocking up the foramen, and adhering on all
+sides, finally closes it up, and almost obliterates every trace of it.
+This membrane, however, is so contrived in the fœtus, that falling
+loosely upon itself, it permits a ready access to the lungs and heart,
+yielding a passage to the blood which is streaming from the cava, and
+hindering the tide at the same time from flowing back into that vein.
+All things, in short, permit us to believe that in the embryo the
+blood must constantly pass by this foramen from the vena cava into
+the arteria venosa, or pulmonary vein, and from thence into the left
+auricle of the heart; and having once entered there, it can never
+regurgitate.
+
+Another union is that by the vena arteriosa, or pulmonary artery,
+and is effected when that vessel divides into two branches after its
+escape from the right ventricle of the heart. It is as if to the two
+trunks already mentioned a third was superadded, a kind of arterial
+canal, carried obliquely from the vena arteriosa, or pulmonary artery,
+to perforate and terminate in the arteria magna or aorta. In the
+embryo, consequently, there are, as it were, two aortas, or two roots
+of the arteria magna, springing from the heart. This canalis arteriosus
+shrinks gradually after birth, and is at length and finally almost
+entirely withered, and removed, like the umbilical vessels.
+
+The canalis arteriosus contains no membrane or valve to direct or
+impede the flow of the blood in this or in that direction: for at the
+root of the vena arteriosa, or pulmonary artery, of which the canalis
+arteriosus is the continuation in the fœtus, there are three sigmoid
+or semilunar valves, which open from within outwards, and oppose no
+obstacle to the blood flowing in this direction or from the right
+ventricle into the pulmonary artery and aorta; but they prevent all
+regurgitation from the aorta or pulmonic vessels back upon the right
+ventricle; closing with perfect accuracy, they oppose an effectual
+obstacle to everything of the kind in the embryo. So that there is also
+reason to believe that when the heart contracts, the blood is regularly
+propelled by the canal or passage indicated from the right ventricle
+into the aorta.
+
+What is commonly said in regard to these two great communications,
+to wit, that they exist for the nutrition of the lungs, is both
+improbable and inconsistent; seeing that in the adult they are closed
+up, abolished, and consolidated, although the lungs, by reason of their
+heat and motion, must then be presumed to require a larger supply of
+nourishment. The same may be said in regard to the assertion that
+the heart in the embryo does not pulsate, that it neither acts nor
+moves, so that nature was forced to make these communications for the
+nutrition of the lungs. This is plainly false; for simple inspection of
+the incubated egg, and of embryos just taken out of the uterus, shows
+that the heart moves precisely in them as in adults, and that nature
+feels no such necessity. I have myself repeatedly seen these motions,
+and Aristotle is likewise witness of their reality. “The pulse,” he
+observes, “inheres in the very constitution of the heart, and appears
+from the beginning, as is learned both from the dissection of living
+animals, and the formation of the chick in the egg.”[27] But we further
+observe, that the passages in question are not only pervious up to the
+period of birth in man, as well as in other animals, as anatomists
+in general have described them, but for several months subsequently,
+in some indeed for several years, not to say for the whole course of
+life; as, for example, in the goose, snipe, and various birds, and many
+of the smaller animals. And this circumstance it was, perhaps, that
+imposed upon Botallus, who thought he had discovered a new passage for
+the blood from the vena cava into the left ventricle of the heart; and
+I own that when I met with the same arrangement in one of the larger
+members of the mouse family, in the adult state, I was myself at first
+led to something of a like conclusion.
+
+  [27] Lib. de Spiritu, cap. v.
+
+From this it will be understood that in the human embryo, and in the
+embryos of animals in which the communications are not closed, the same
+thing happens, namely, that the heart by its motion propels the blood
+by obvious and open passages from the vena cava into the aorta through
+the cavities of both the ventricles; the right one receiving the blood
+from the auricle, and propelling it by the vena arteriosa, or pulmonary
+artery, and its continuation, named the ductus arteriosus, into the
+aorta; the left, in like manner, charged by the contraction of its
+auricle, which has received its supply through the foramen ovale from
+the vena cava, contracting, and projecting the blood through the root
+of the aorta into the trunk of that vessel.
+
+In embryos, consequently, whilst the lungs are yet in a state of
+inaction, performing no function, subject to no motion any more than
+if they had not been present, nature uses the two ventricles of the
+heart as if they formed but one, for the transmission of the blood.
+The condition of the embryos of those animals
